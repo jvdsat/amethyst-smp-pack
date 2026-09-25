@@ -23,7 +23,7 @@ def generate_modlist():
     mod_names.sort()
     
     with open('MODLIST.md', 'w', encoding='utf-8') as f:
-        f.write("# Server Modpack\n\n## Mod List\n\n")
+        f.write("# Amethyst SMP Server Modpack #\n\n")
         for name in mod_names:
             f.write(f"- {name}\n")
     
