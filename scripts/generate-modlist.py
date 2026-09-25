@@ -25,7 +25,7 @@ def generate_modlist():
     with open('MODLIST.md', 'w', encoding='utf-8') as f:
         f.write("# Server Modpack\n\n## Mod List\n\n")
         for name in mod_names:
-            f.write(f"- [ ] {name}\n")
+            f.write(f"- {name}\n")
     
     print(f"Successfully generated MODLIST.md with {len(mod_names)} mods.")
 
