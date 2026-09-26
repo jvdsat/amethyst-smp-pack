@@ -37,9 +37,11 @@
 - GuideME
 - ImmediatelyFast
 - Incendium
+- Inventory Profiles Next
 - Iron's Lib
 - Iron's Spells 'n Spellbooks
 - Jade 🔍
+- Kotlin for Forge
 - L_Ender 's Cataclysm Delight
 - L_Ender's Cataclysm
 - Lightman's Currency
@@ -73,5 +75,6 @@
 - Xaero's Minimap
 - Xaero's World Map
 - [UNOFFICIAL] TaCZ 1.21.1 NeoForge Port
+- libIPN
 - playerAnimator
 - spark
