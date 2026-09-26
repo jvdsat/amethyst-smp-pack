@@ -10,10 +10,13 @@
 - BetterEnd Neoforge
 - Biomes O' Plenty
 - BlueMap
+- Bosses of Mass Destruction Forge
 - Bosses'Rise
+- CERBON's API
 - Chunky
 - Chunky Border
 - Citadel (Unofficial Port)
+- Cloth Config API
 - Clumps
 - Concurrent Chunk Management Engine (NeoForge)
 - CoreProtectNeo
