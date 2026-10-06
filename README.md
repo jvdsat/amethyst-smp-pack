@@ -4,7 +4,10 @@ This project contains the files for the modlist for the Amethyst SMP.
 Read the Pre-requisites to see if this is even something you want to do. It's quite some setup.
 
 ## Pre-Requisites
-1. Install Java OpenJDK 21
+1. Install Java OpenJDK 21. Windows install command for cmd prompt:
+```bash
+winget install EclipseAdoptium.Temurin.21.JRE
+```
 2. 6 GB RAM recommended. You can allocate more up to 8GB if you're seeing stutters. Flying at max speed with elytra was perfect at 6GB.
 3. Tailscale VPN (so you can connect to my home) https://tailscale.com/
 4. Minecraft 1.21.1 Neoforge 21.1.234 instance with 6144 MB RAM. Optionally, 8192 MB RAM.
