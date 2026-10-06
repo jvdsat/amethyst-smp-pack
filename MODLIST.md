@@ -1,4 +1,4 @@
-# Amethyst SMP Server Modpack #
+# Amethyst SMP Server Modlist #
 
 - Advanced Backups
 - Alex's Caves (Unofficial Port)
