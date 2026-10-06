@@ -79,7 +79,7 @@ For example,the Lunar Client folder has a mods folder, then a folder for each in
 ```java
 java -jar packwiz-installer-bootstrap.jar -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/pack.toml
 ```
-4. The prorgam will create a "mods" folder and other packwiz related files. Open the "mods" folder and copy paste the mod files into your Minecraft folder.
+4. The program will create a "mods" folder and other packwiz related files. Open the "mods" folder and copy paste the mod files into your Minecraft folder.
 <br>...\Downloads\amethyst-smp-pack
     - mods
     - packwiz-installer.jar
