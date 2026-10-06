@@ -1,5 +1,2 @@
 *.jar
 *.zip
-
-.packwiz/
-!mods/*.pw.toml
