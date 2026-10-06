@@ -50,7 +50,7 @@ Launchers such as CurseForge, Modrinth, Lunar Client, and Badlion Client do not 
 ### For MultiMC, PrismLauncher, and ATLauncher:
 Use this command as a pre-launch command:
 ```java
-"$INST_JAVA" -jar "$INST_MC_DIR/packwiz-installer-bootstrap.jar" -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/pack.toml
+"$INST_JAVA" -jar "$INST_MC_DIR/packwiz-installer-bootstrap.jar" -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/packwiz/pack.toml
 ```
 
 ### For installs with a "mods" folder:
@@ -67,7 +67,7 @@ If your launcher has a "mods" folder, place the packwiz-installer-bootstrap.jar 
 
 Run the packwiz-installer-bootstrap.jar file to manually sync with the server.
 ```java
-java -jar packwiz-installer-bootstrap.jar -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/pack.toml
+java -jar packwiz-installer-bootstrap.jar -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/packwiz/pack.toml
 ```
 
 ### For installs with complex directory structure:
@@ -77,7 +77,7 @@ For example,the Lunar Client folder has a mods folder, then a folder for each in
 2. Place the packwiz-installer-bootstrap.jar into this folder
 3. Run the packwiz-installer-bootstrap.jar file
 ```java
-java -jar packwiz-installer-bootstrap.jar -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/pack.toml
+java -jar packwiz-installer-bootstrap.jar -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/packwiz/pack.toml
 ```
 4. The program will create a "mods" folder and other packwiz related files. Open the "mods" folder and paste the mod files into your Minecraft folder.
 <br>...\Downloads\amethyst-smp-pack
