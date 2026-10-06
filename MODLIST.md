@@ -9,7 +9,6 @@
 - BadOptimizations
 - BetterEnd Neoforge
 - Biomes O' Plenty
-- BlueMap
 - Bosses of Mass Destruction Forge
 - Bosses'Rise
 - CERBON's API
@@ -61,7 +60,6 @@
 - Nature's Compass
 - Ocean's Delight
 - Open Parties and Claims
-- OpenPaC BlueMap - Refreshed
 - Placebo
 - Remove Stardust Labs Intro Message
 - Resourceful Config
