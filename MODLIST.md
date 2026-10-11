@@ -5,6 +5,7 @@
 - Alternate Current
 - AppleSkin
 - Applied Energistics 2
+- Architectury API
 - BCLib Neoforge
 - BadOptimizations
 - BetterEnd Neoforge
@@ -24,7 +25,6 @@
 - Deeper and Darker
 - EMI
 - Effortless Building
-- Embeddium
 - End Remastered
 - End's Delight
 - Entity Culling
@@ -35,6 +35,7 @@
 - FastWorkbench
 - FerriteCore
 - Geckolib
+- Genesis - World Previewer & Pregenerator
 - GlitchCore
 - GuideME
 - ImmediatelyFast
@@ -58,12 +59,14 @@
 - Moog's Structure Lib (moogs_structures)
 - My Nether's Delight
 - Nature's Compass
+- No Chat Reports
 - Ocean's Delight
 - Open Parties and Claims
 - Placebo
 - Remove Stardust Labs Intro Message
 - Resourceful Config
 - Simple Voice Chat
+- Sodium
 - Sophisticated Core
 - Sophisticated Storage
 - Structure Layout Optimizer
@@ -79,3 +82,4 @@
 - libIPN
 - playerAnimator
 - spark
+- squaremap
