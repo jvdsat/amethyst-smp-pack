@@ -206,6 +206,11 @@ hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
 metafile = true
 
 [[files]]
+file = "mods/indestructible-blocks.pw.toml"
+hash = "69ba0c74d1c0dc96a457aab2128accda7d6ef474fe3ca046e0b0c948521ce6eb"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
 metafile = true

@@ -34,12 +34,14 @@
 - FastSuite
 - FastWorkbench
 - FerriteCore
+- Forge PlaceholderAPI
 - Geckolib
 - Genesis - World Previewer & Pregenerator
 - GlitchCore
 - GuideME
 - ImmediatelyFast
 - Incendium
+- Indestructible Blocks
 - Inventory Profiles Next
 - Iron's Lib
 - Iron's Spells 'n Spellbooks
@@ -79,7 +81,6 @@
 - VeinMiner
 - VeinMiner Enchantment
 - VeinMiner Hotkey
-- ViewBoard
 - WorldWeaver Neoforge
 - WunderLib Neoforge
 - Xaero's Minimap
