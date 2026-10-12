@@ -171,11 +171,6 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
-file = "mods/forge-placeholderapi.pw.toml"
-hash = "c0411f0ca0acdebf9678239931fc810b8c12cd64e955ea6cf94034afa2700c0b"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "076b61776e2df489b323758c97d85c5370554c044845ee2e90476a3c138779e8"
 metafile = true
