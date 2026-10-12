@@ -34,7 +34,6 @@
 - FastSuite
 - FastWorkbench
 - FerriteCore
-- Forge PlaceholderAPI
 - Geckolib
 - Genesis - World Previewer & Pregenerator
 - GlitchCore
@@ -56,7 +55,6 @@
 - Lithium
 - Lithostitched
 - Lootr
-- LuckPerms
 - MES - Moog's End Structures
 - MKT Essentials
 - ModernFix

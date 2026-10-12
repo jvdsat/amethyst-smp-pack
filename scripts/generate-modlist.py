@@ -5,7 +5,6 @@ def generate_modlist():
     mod_names = []
     mods_dir = 'packwiz/mods'
     
-    # Walk through the directory to find all .pw.toml files
     for root, dirs, files in os.walk(mods_dir):
         for file in files:
             if file.endswith('.pw.toml'):
