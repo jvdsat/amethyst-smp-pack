@@ -45,6 +45,7 @@
 - Iron's Spells 'n Spellbooks
 - Jade 🔍
 - Kotlin for Forge
+- KotlinLangForge
 - L_Ender 's Cataclysm Delight
 - L_Ender's Cataclysm
 - Lightman's Currency
@@ -75,6 +76,10 @@
 - TerraBlender
 - Terralith
 - Traveler's Backpack
+- VeinMiner
+- VeinMiner Enchantment
+- VeinMiner Hotkey
+- ViewBoard
 - WorldWeaver Neoforge
 - WunderLib Neoforge
 - Xaero's Minimap
