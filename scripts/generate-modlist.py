@@ -3,7 +3,7 @@ import toml
 
 def generate_modlist():
     mod_names = []
-    mods_dir = 'mods'
+    mods_dir = 'packwiz/mods'
     
     # Walk through the directory to find all .pw.toml files
     for root, dirs, files in os.walk(mods_dir):
@@ -22,7 +22,7 @@ def generate_modlist():
     # Sort and write to MODLIST.md
     mod_names.sort()
     
-    with open('../MODLIST.md', 'w', encoding='utf-8') as f:
+    with open('MODLIST.md', 'w', encoding='utf-8') as f:
         f.write("# Amethyst SMP Server Modlist #\n\n")
         for name in mod_names:
             f.write(f"- {name}\n")

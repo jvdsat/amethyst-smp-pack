@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "MODLIST.md"
-hash = "c35a6dc0973fcb8ce67241cf3929bb34749ccc452d793da47a8749328933a24c"
-
-[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "732787f222641ecfed68d2cbf6e498324061b51ebb8ee08af322cefd9c4a91ed"
 metafile = true
