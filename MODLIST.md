@@ -70,6 +70,7 @@
 - Sophisticated Core
 - Sophisticated Storage
 - Structure Layout Optimizer
+- Studious Keybinds
 - Tectonic
 - TerraBlender
 - Terralith

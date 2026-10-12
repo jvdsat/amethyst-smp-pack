@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/endrem.pw.toml"
-hash = "db22718a1efaf2c691cf3bdddc61b0b06bedff7cb0722aa8b1bdf4f095d116cc"
+hash = "43e084efa5f7f4d41eb1c27c998029cf79d403549c8721e7621f650558f94c6e"
 metafile = true
 
 [[files]]
@@ -373,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "27fbafdc78a4a3cb8badb58078ec1f2837e65a5bbe5160e344b0fb3e779c9efe"
+metafile = true
+
+[[files]]
+file = "mods/studious-keybinds.pw.toml"
+hash = "f557c416202cf0d1116fe4f45762d6fac32c0a1c16dee92f14b9d66ec1796edb"
 metafile = true
 
 [[files]]
