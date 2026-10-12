@@ -13,13 +13,11 @@ def generate_modlist():
                 try:
                     with open(file_path, 'r', encoding='utf-8') as f:
                         data = toml.load(f)
-                        # Try to get the name, fallback to filename if missing
                         name = data.get('name') or file.replace('.pw.toml', '')
                         mod_names.append(name)
                 except Exception as e:
                     print(f"Skipping {file}: {e}")
     
-    # Sort and write to MODLIST.md
     mod_names.sort()
     
     with open('MODLIST.md', 'w', encoding='utf-8') as f:
@@ -27,7 +25,7 @@ def generate_modlist():
         for name in mod_names:
             f.write(f"- {name}\n")
     
-    print(f"Successfully generated MODLIST.md with {len(mod_names)} mods.")
+    print(f"Generated MODLIST.md with {len(mod_names)} mods.")
 
 if __name__ == "__main__":
     generate_modlist()

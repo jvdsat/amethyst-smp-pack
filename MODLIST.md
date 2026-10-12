@@ -38,6 +38,7 @@
 - Geckolib
 - Genesis - World Previewer & Pregenerator
 - GlitchCore
+- GraveStone Mod
 - GuideME
 - ImmediatelyFast
 - Incendium
