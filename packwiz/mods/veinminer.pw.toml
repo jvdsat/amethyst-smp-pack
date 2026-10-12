@@ -1,6 +1,6 @@
 name = "VeinMiner"
 filename = "veinminer-neoforge-2.11.2+1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OhduvhIc/versions/syKekkIm/veinminer-neoforge-2.11.2%2B1.21.1.jar"
