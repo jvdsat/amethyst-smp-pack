@@ -396,6 +396,11 @@ hash = "51792be52a28307d13f582e7791add6d5974a9fc18ad2679f715c3ab10a9bc8b"
 metafile = true
 
 [[files]]
+file = "mods/viewboard.pw.toml"
+hash = "578c90f5a9f0b0afc822f044f257faf8ffe7c99f52da8a693e4bdc03b3d7e973"
+metafile = true
+
+[[files]]
 file = "mods/worldweaver-neoforge.pw.toml"
 hash = "ee8f963ec9dc72467d15af46af53685bc2b199b232c738006e98d91e897834c2"
 metafile = true

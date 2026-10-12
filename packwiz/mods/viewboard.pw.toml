@@ -1,0 +1,13 @@
+name = "ViewBoard"
+filename = "viewboard-neoforge-1.21.1-1.2.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xf9PORQx/versions/HaIX6ul0/viewboard-neoforge-1.21.1-1.2.3.jar"
+hash-format = "sha512"
+hash = "3901337d97064c5bcc2625936a005377629580b929317fa9bba127fb8cb075147f978576b63d9b80303d1bfc60bd5442d9707ad83fec5e635f07eb4d3bde4f11"
+
+[update]
+[update.modrinth]
+mod-id = "xf9PORQx"
+version = "HaIX6ul0"
