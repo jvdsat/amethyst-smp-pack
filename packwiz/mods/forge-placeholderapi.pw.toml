@@ -1,0 +1,13 @@
+name = "Forge PlaceholderAPI"
+filename = "ForgePlaceholderAPI-NeoForge-2.1.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ec5013fe7d5f36d759bb5f9183fd9c5a95dd467"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6607963
+project-id = 545871
