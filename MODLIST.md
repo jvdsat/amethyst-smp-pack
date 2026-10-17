@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 86 
+Total mods: 87 
 
 ## Adventure & Content
 
@@ -117,4 +117,8 @@ Total mods: 86
 * WunderLib Neoforge
 * libIPN
 * playerAnimator
+
+## Uncategorized
+
+* Carry On
 
