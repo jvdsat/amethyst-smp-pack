@@ -1,0 +1,13 @@
+name = "Carry Cats!"
+filename = "Carry Cats 2.5 1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pyA57x8S/versions/DtSOGTKK/Carry%20Cats%202.5%201.21.1.jar"
+hash-format = "sha512"
+hash = "70b8c5588a3c1b87cbb84ebd736e7409b0d05240cccd534122fba3262aae11aa93d6c6d032c1db2aaea507245d8ed0c81119997904a44c384fc5a58a3fe1c5cc"
+
+[update]
+[update.modrinth]
+mod-id = "pyA57x8S"
+version = "DtSOGTKK"

@@ -521,9 +521,21 @@
         "name": "Carry On",
         "shortname": "carry-on",
         "categories": [
-            "game-mechanics",
-            "storage",
-            "transportation"
+            "storage"
+        ]
+    },
+    "pyA57x8S": {
+        "name": "Carry Cats!",
+        "shortname": "carry-cats",
+        "categories": [
+            "quality"
+        ]
+    },
+    "TqKRgEs9": {
+        "name": "Carry Me",
+        "shortname": "carry-me",
+        "categories": [
+            "quality"
         ]
     }
 }

@@ -61,6 +61,16 @@ hash = "37784a1f9ab276e618f3d29bf0ea641811f7f6d3a740179e0332e7794b91679e"
 metafile = true
 
 [[files]]
+file = "mods/carry-cats.pw.toml"
+hash = "b5ef42a8461f6c3284bc33dbe27f5eaa18598efb5cc3278327553e13fd0769fe"
+metafile = true
+
+[[files]]
+file = "mods/carry-me.pw.toml"
+hash = "fe0a093bcc57041ff4778207e2a9148a1c9d56a9407e14ab90e646d7d88852ba"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
 metafile = true

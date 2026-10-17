@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 87 
+Total mods: 89 
 
 ## Adventure & Content
 
@@ -26,6 +26,7 @@ Total mods: 87
 ## Storage & Inventory
 
 * Applied Energistics 2
+* Carry On
 * Sophisticated Storage
 
 ## Equipment & Weapons
@@ -46,6 +47,8 @@ Total mods: 87
 
 ## Quality of Life
 
+* Carry Cats!
+* Carry Me
 * GraveStone Mod
 * Inventory Profiles Next
 * Simple Voice Chat
@@ -117,8 +120,4 @@ Total mods: 87
 * WunderLib Neoforge
 * libIPN
 * playerAnimator
-
-## Uncategorized
-
-* Carry On
 
