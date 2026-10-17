@@ -505,14 +505,25 @@
     },
     "1bokaNcj": {
         "name": "Xaero's Minimap",
+        "shortname": "xaeros-minimap",
         "categories": [
             "utility"
         ]
     },
     "NcUtCpym": {
         "name": "Xaero's World Map",
+        "shortname": "xaeros-world-map",
         "categories": [
             "utility"
+        ]
+    },
+    "joEfVgkn": {
+        "name": "Carry On",
+        "shortname": "carry-on",
+        "categories": [
+            "game-mechanics",
+            "storage",
+            "transportation"
         ]
     }
 }
