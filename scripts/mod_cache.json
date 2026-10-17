@@ -1,0 +1,518 @@
+{
+    "Jrmoreqs": {
+        "name": "Advanced Backups",
+        "categories": [
+            "servermanagement"
+        ]
+    },
+    "XxWD5pD3": {
+        "name": "Applied Energistics 2",
+        "categories": [
+            "storage"
+        ]
+    },
+    "kSsLSjEt": {
+        "name": "Alex's Caves (Unofficial Port)",
+        "categories": [
+            "worldgen"
+        ]
+    },
+    "r0v8vy1s": {
+        "name": "Alternate Current",
+        "categories": [
+            "optimization"
+        ]
+    },
+    "EsAfCjCV": {
+        "name": "AppleSkin",
+        "categories": [
+            "food"
+        ]
+    },
+    "g96Z4WVZ": {
+        "name": "BadOptimizations",
+        "categories": [
+            "optimization"
+        ]
+    },
+    "7bdKEtKC": {
+        "name": "BCLib Neoforge",
+        "categories": [
+            "library"
+        ]
+    },
+    "IcERKldh": {
+        "name": "BetterEnd Neoforge",
+        "categories": [
+            "worldgen"
+        ]
+    },
+    "HXF82T3G": {
+        "name": "Biomes O' Plenty",
+        "categories": [
+            "worldgen"
+        ]
+    },
+    "hFUzfDsn": {
+        "name": "Bosses of Mass Destruction Forge",
+        "categories": [
+            "adventure"
+        ]
+    },
+    "q2bV1Tm1": {
+        "name": "Bosses'Rise",
+        "categories": [
+            "adventure"
+        ]
+    },
+    "COlSi5iR": {
+        "name": "Concurrent Chunk Management Engine (NeoForge)",
+        "categories": [
+            "optimization"
+        ]
+    },
+    "GkIc6rRo": {
+        "name": "CERBON's API",
+        "categories": [
+            "library"
+        ]
+    },
+    "fALzjamp": {
+        "name": "Chunky",
+        "categories": [
+            "servermanagement"
+        ]
+    },
+    "s86X568j": {
+        "name": "Chunky Border",
+        "categories": [
+            "servermanagement"
+        ]
+    },
+    "XjY0RcQj": {
+        "name": "Citadel (Unofficial Port)",
+        "categories": [
+            "library"
+        ]
+    },
+    "9s6osm5g": {
+        "name": "Cloth Config API",
+        "categories": [
+            "library"
+        ]
+    },
+    "Wnxd13zP": {
+        "name": "Clumps",
+        "categories": [
+            "optimization"
+        ]
+    },
+    "J80MzpEK": {
+        "name": "CoreProtectNeo",
+        "categories": [
+            "servermanagement"
+        ]
+    },
+    "ETlrkaYF": {
+        "name": "Cubes Without Borders",
+        "categories": [
+            "utility"
+        ]
+    },
+    "vvuO3ImH": {
+        "name": "Curios API",
+        "categories": [
+            "library"
+        ]
+    },
+    "fnAffV0n": {
+        "name": "Deeper and Darker",
+        "categories": [
+            "adventure"
+        ]
+    },
+    "DYtfQEYj": {
+        "name": "Effortless Building",
+        "categories": [
+            "utility"
+        ]
+    },
+    "fRiHVvU7": {
+        "name": "EMI",
+        "categories": [
+            "utility"
+        ]
+    },
+    "ZJTGwAND": {
+        "name": "End Remastered",
+        "categories": [
+            "adventure"
+        ]
+    },
+    "yHN0njMr": {
+        "name": "End's Delight",
+        "categories": [
+            "food"
+        ]
+    },
+    "NNAgCjsB": {
+        "name": "Entity Culling",
+        "categories": [
+            "optimization"
+        ]
+    },
+    "RV1qfVQ8": {
+        "name": "Explorer's Compass",
+        "categories": [
+            "utility"
+        ]
+    },
+    "R2OftAxM": {
+        "name": "Farmer's Delight",
+        "categories": [
+            "food"
+        ]
+    },
+    "9X0318ev": {
+        "name": "FastFurnace",
+        "categories": [
+            "optimization"
+        ]
+    },
+    "roccmqou": {
+        "name": "FastSuite",
+        "categories": [
+            "optimization"
+        ]
+    },
+    "5NYPwQRn": {
+        "name": "FastWorkbench",
+        "categories": [
+            "optimization"
+        ]
+    },
+    "uXXizFIs": {
+        "name": "FerriteCore",
+        "categories": [
+            "optimization"
+        ]
+    },
+    "8BmcQJ2H": {
+        "name": "Geckolib",
+        "categories": [
+            "library"
+        ]
+    },
+    "s3dmwKy5": {
+        "name": "GlitchCore",
+        "categories": [
+            "library"
+        ]
+    },
+    "RYtXKJPr": {
+        "name": "GraveStone Mod",
+        "categories": [
+            "quality"
+        ]
+    },
+    "Ck4E7v7R": {
+        "name": "GuideME",
+        "categories": [
+            "library"
+        ]
+    },
+    "5ZwdcRci": {
+        "name": "ImmediatelyFast",
+        "categories": [
+            "optimization"
+        ]
+    },
+    "ZVzW5oNS": {
+        "name": "Incendium",
+        "categories": [
+            "worldgen"
+        ]
+    },
+    "O7RBXm3n": {
+        "name": "Inventory Profiles Next",
+        "categories": [
+            "quality"
+        ]
+    },
+    "9nfaJPtX": {
+        "name": "Iron's Lib",
+        "categories": [
+            "library"
+        ]
+    },
+    "s4OWxYQQ": {
+        "name": "Iron's Spells 'n Spellbooks",
+        "categories": [
+            "adventure"
+        ]
+    },
+    "nvQzSEkH": {
+        "name": "Jade \ud83d\udd0d",
+        "categories": [
+            "utility"
+        ]
+    },
+    "ordsPcFz": {
+        "name": "Kotlin for Forge",
+        "categories": [
+            "library"
+        ]
+    },
+    "1vrSzlao": {
+        "name": "KotlinLangForge",
+        "categories": [
+            "library"
+        ]
+    },
+    "onSQdWhM": {
+        "name": "libIPN",
+        "categories": [
+            "library"
+        ]
+    },
+    "wvMc8AJt": {
+        "name": "Lightman's Currency",
+        "categories": [
+            "utility"
+        ]
+    },
+    "FoVacERa": {
+        "name": "Lionfish-API",
+        "categories": [
+            "library"
+        ]
+    },
+    "gvQqBUqZ": {
+        "name": "Lithium",
+        "categories": [
+            "optimization"
+        ]
+    },
+    "XaDC71GB": {
+        "name": "Lithostitched",
+        "categories": [
+            "library"
+        ]
+    },
+    "EltpO5cN": {
+        "name": "Lootr",
+        "categories": [
+            "adventure"
+        ]
+    },
+    "Vebnzrzj": {
+        "name": "LuckPerms",
+        "categories": [
+            "servermanagement"
+        ]
+    },
+    "a48R8AGk": {
+        "name": "L_Ender 's Cataclysm Delight",
+        "categories": [
+            "food"
+        ]
+    },
+    "46KJle7n": {
+        "name": "L_Ender's Cataclysm",
+        "categories": [
+            "adventure"
+        ]
+    },
+    "r4PuRGfV": {
+        "name": "MES - Moog's End Structures",
+        "categories": [
+            "adventure"
+        ]
+    },
+    "dzLZCn7R": {
+        "name": "MKT Essentials",
+        "categories": [
+            "servermanagement"
+        ]
+    },
+    "nmDcB62a": {
+        "name": "ModernFix",
+        "categories": [
+            "optimization"
+        ]
+    },
+    "1oUDhxuy": {
+        "name": "Moog's Structure Lib (moogs_structures)",
+        "categories": [
+            "worldgen"
+        ]
+    },
+    "O53VhQoZ": {
+        "name": "My Nether's Delight",
+        "categories": [
+            "food"
+        ]
+    },
+    "fPetb5Kh": {
+        "name": "Nature's Compass",
+        "categories": [
+            "utility"
+        ]
+    },
+    "qQyHxfxd": {
+        "name": "No Chat Reports",
+        "categories": [
+            "utility"
+        ]
+    },
+    "DGiq4ZSW": {
+        "name": "Ocean's Delight",
+        "categories": [
+            "food"
+        ]
+    },
+    "gF3BGWvG": {
+        "name": "Open Parties and Claims",
+        "categories": [
+            "utility"
+        ]
+    },
+    "tCkE8p2N": {
+        "name": "Placebo",
+        "categories": [
+            "library"
+        ]
+    },
+    "gedNE4y2": {
+        "name": "playerAnimator",
+        "categories": [
+            "library"
+        ]
+    },
+    "sk4iFZGy": {
+        "name": "Remove Stardust Labs Intro Message",
+        "categories": [
+            "utility"
+        ]
+    },
+    "M1953qlQ": {
+        "name": "Resourceful Config",
+        "categories": [
+            "library"
+        ]
+    },
+    "9eGKb6K1": {
+        "name": "Simple Voice Chat",
+        "categories": [
+            "quality"
+        ]
+    },
+    "AANobbMI": {
+        "name": "Sodium",
+        "categories": [
+            "optimization"
+        ]
+    },
+    "nmoqTijg": {
+        "name": "Sophisticated Core",
+        "categories": [
+            "library"
+        ]
+    },
+    "hMlaZH8f": {
+        "name": "Sophisticated Storage",
+        "categories": [
+            "storage"
+        ]
+    },
+    "l6YH9Als": {
+        "name": "spark",
+        "categories": [
+            "servermanagement"
+        ]
+    },
+    "PFb7ZqK6": {
+        "name": "squaremap",
+        "categories": [
+            "utility"
+        ]
+    },
+    "ayPU0OHc": {
+        "name": "Structure Layout Optimizer",
+        "categories": [
+            "optimization"
+        ]
+    },
+    "9106885": {
+        "name": "Studious Keybinds",
+        "categories": [
+            "quality"
+        ]
+    },
+    "OypNE65K": {
+        "name": "[UNOFFICIAL] TaCZ 1.21.1 NeoForge Port",
+        "categories": [
+            "equipment"
+        ]
+    },
+    "lWDHr9jE": {
+        "name": "Tectonic",
+        "categories": [
+            "worldgen"
+        ]
+    },
+    "kkmrDlKT": {
+        "name": "TerraBlender",
+        "categories": [
+            "library"
+        ]
+    },
+    "8oi3bsk5": {
+        "name": "Terralith",
+        "categories": [
+            "worldgen"
+        ]
+    },
+    "rlloIFEV": {
+        "name": "Traveler's Backpack",
+        "categories": [
+            "equipment"
+        ]
+    },
+    "4sP0LXxp": {
+        "name": "VeinMiner Enchantment",
+        "categories": [
+            "equipment"
+        ]
+    },
+    "OhduvhIc": {
+        "name": "VeinMiner",
+        "categories": [
+            "equipment"
+        ]
+    },
+    "R8uGDQpB": {
+        "name": "WorldWeaver Neoforge",
+        "categories": [
+            "library"
+        ]
+    },
+    "HZmhgdJk": {
+        "name": "WunderLib Neoforge",
+        "categories": [
+            "library"
+        ]
+    },
+    "1bokaNcj": {
+        "name": "Xaero's Minimap",
+        "categories": [
+            "utility"
+        ]
+    },
+    "NcUtCpym": {
+        "name": "Xaero's World Map",
+        "categories": [
+            "utility"
+        ]
+    }
+}

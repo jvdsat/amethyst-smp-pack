@@ -1,81 +1,120 @@
-# Amethyst SMP Server Modlist #
+# Amethyst Server Modlist 
 
-- Advanced Backups
-- Alex's Caves (Unofficial Port)
-- Alternate Current
-- AppleSkin
-- Applied Energistics 2
-- BCLib Neoforge
-- BadOptimizations
-- BetterEnd Neoforge
-- Biomes O' Plenty
-- Bosses of Mass Destruction Forge
-- Bosses'Rise
-- CERBON's API
-- Chunky
-- Chunky Border
-- Citadel (Unofficial Port)
-- Cloth Config API
-- Clumps
-- Concurrent Chunk Management Engine (NeoForge)
-- CoreProtectNeo
-- Cubes Without Borders
-- Curios API
-- Deeper and Darker
-- EMI
-- Effortless Building
-- Embeddium
-- End Remastered
-- End's Delight
-- Entity Culling
-- Explorer's Compass
-- Farmer's Delight
-- FastFurnace
-- FastSuite
-- FastWorkbench
-- FerriteCore
-- Geckolib
-- GlitchCore
-- GuideME
-- ImmediatelyFast
-- Incendium
-- Inventory Profiles Next
-- Iron's Lib
-- Iron's Spells 'n Spellbooks
-- Jade 🔍
-- Kotlin for Forge
-- L_Ender 's Cataclysm Delight
-- L_Ender's Cataclysm
-- Lightman's Currency
-- Lionfish-API
-- Lithium
-- Lithostitched
-- Lootr
-- LuckPerms
-- MES - Moog's End Structures
-- MKT Essentials
-- ModernFix
-- Moog's Structure Lib (moogs_structures)
-- My Nether's Delight
-- Nature's Compass
-- Ocean's Delight
-- Open Parties and Claims
-- Placebo
-- Remove Stardust Labs Intro Message
-- Resourceful Config
-- Simple Voice Chat
-- Sophisticated Core
-- Sophisticated Storage
-- Structure Layout Optimizer
-- Tectonic
-- TerraBlender
-- Terralith
-- Traveler's Backpack
-- WorldWeaver Neoforge
-- WunderLib Neoforge
-- Xaero's Minimap
-- Xaero's World Map
-- [UNOFFICIAL] TaCZ 1.21.1 NeoForge Port
-- libIPN
-- playerAnimator
-- spark
+Total mods: 86 
+
+## Adventure & Content
+
+* Bosses of Mass Destruction Forge
+* Bosses'Rise
+* Deeper and Darker
+* End Remastered
+* Iron's Spells 'n Spellbooks
+* L_Ender's Cataclysm
+* Lootr
+* MES - Moog's End Structures
+
+## World Generation
+
+* Alex's Caves (Unofficial Port)
+* BetterEnd Neoforge
+* Biomes O' Plenty
+* Incendium
+* Moog's Structure Lib (moogs_structures)
+* Tectonic
+* Terralith
+
+## Storage & Inventory
+
+* Applied Energistics 2
+* Sophisticated Storage
+
+## Equipment & Weapons
+
+* Traveler's Backpack
+* VeinMiner
+* VeinMiner Enchantment
+* [UNOFFICIAL] TaCZ 1.21.1 NeoForge Port
+
+## Food & Farming
+
+* AppleSkin
+* End's Delight
+* Farmer's Delight
+* L_Ender 's Cataclysm Delight
+* My Nether's Delight
+* Ocean's Delight
+
+## Quality of Life
+
+* GraveStone Mod
+* Inventory Profiles Next
+* Simple Voice Chat
+* Studious Keybinds
+
+## Utilities
+
+* Cubes Without Borders
+* EMI
+* Effortless Building
+* Explorer's Compass
+* Jade 🔍
+* Lightman's Currency
+* Nature's Compass
+* No Chat Reports
+* Open Parties and Claims
+* Remove Stardust Labs Intro Message
+* Xaero's Minimap
+* Xaero's World Map
+* squaremap
+
+## Performance
+
+* Alternate Current
+* BadOptimizations
+* Clumps
+* Concurrent Chunk Management Engine (NeoForge)
+* Entity Culling
+* FastFurnace
+* FastSuite
+* FastWorkbench
+* FerriteCore
+* ImmediatelyFast
+* Lithium
+* ModernFix
+* Sodium
+* Structure Layout Optimizer
+
+## Server Management
+
+* Advanced Backups
+* Chunky
+* Chunky Border
+* CoreProtectNeo
+* LuckPerms
+* MKT Essentials
+* spark
+
+## Libraries & APIs
+
+* BCLib Neoforge
+* CERBON's API
+* Citadel (Unofficial Port)
+* Cloth Config API
+* Curios API
+* Geckolib
+* GlitchCore
+* GuideME
+* Iron's Lib
+* Kotlin for Forge
+* KotlinLangForge
+* Lionfish-API
+* Lithostitched
+* Placebo
+* Resourceful Config
+* Sophisticated Core
+* TerraBlender
+* WorldWeaver Neoforge
+* WunderLib Neoforge
+* libIPN
+* playerAnimator
+

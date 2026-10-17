@@ -10,7 +10,7 @@ winget install EclipseAdoptium.Temurin.21.JRE
 ```
 2. 6 GB RAM recommended. You can allocate more, up to 8GB if you're seeing stutters. Flying at max speed with elytra was perfect at 6GB.
 3. Tailscale VPN (so you can connect to my home) https://tailscale.com/
-4. Minecraft 1.21.1 NeoForge 21.1.234 instance with 6144 MB RAM. Optionally, 8192 MB RAM.
+4. Minecraft 1.21.1 NeoForge 21.1.256 instance with 6144 MB RAM. Optionally, 8192 MB RAM.
 5. Whitelist yourself on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdoCBcKFSYoIytfGUFq6z5je2Ee2NhS0q0q0RN6ZmQhWYP8Tg/viewform?usp=sharing&ouid=100027547836001925957)
 
 ### BACKGROUND
