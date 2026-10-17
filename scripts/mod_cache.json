@@ -551,5 +551,13 @@
         "categories": [
             "utility"
         ]
+    },
+    "8DfbfASn": {
+        "name": "When Dungeons Arise",
+        "shortname": "when-dungeons-arise",
+        "categories": [
+            "adventure",
+            "worldgen"
+        ]
     }
 }

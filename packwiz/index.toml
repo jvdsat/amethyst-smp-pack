@@ -431,6 +431,11 @@ hash = "03a9564d7cdb16578f46c6f58dcc261968bb440c243ad90229d8ce58aaccc0d3"
 metafile = true
 
 [[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "485906ff55a5d6ad06070abb80663d6adadc3e4b32f8b52240d8596e7aaef9fa"
+metafile = true
+
+[[files]]
 file = "mods/worldweaver-neoforge.pw.toml"
 hash = "ee8f963ec9dc72467d15af46af53685bc2b199b232c738006e98d91e897834c2"
 metafile = true

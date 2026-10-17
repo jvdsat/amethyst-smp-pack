@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 91 
+Total mods: 92 
 
 ## Adventure & Content
 
@@ -12,6 +12,7 @@ Total mods: 91
 * L_Ender's Cataclysm
 * Lootr
 * MES - Moog's End Structures
+* When Dungeons Arise
 
 ## World Generation
 
