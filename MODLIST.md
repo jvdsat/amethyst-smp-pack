@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 89 
+Total mods: 91 
 
 ## Adventure & Content
 
@@ -26,7 +26,6 @@ Total mods: 89
 ## Storage & Inventory
 
 * Applied Energistics 2
-* Carry On
 * Sophisticated Storage
 
 ## Equipment & Weapons
@@ -47,8 +46,6 @@ Total mods: 89
 
 ## Quality of Life
 
-* Carry Cats!
-* Carry Me
 * GraveStone Mod
 * Inventory Profiles Next
 * Simple Voice Chat
@@ -56,6 +53,8 @@ Total mods: 89
 
 ## Utilities
 
+* Carry Cats!
+* Carry On
 * Cubes Without Borders
 * EMI
 * Effortless Building
@@ -65,6 +64,7 @@ Total mods: 89
 * Nature's Compass
 * No Chat Reports
 * Open Parties and Claims
+* Piggyback
 * Remove Stardust Labs Intro Message
 * Xaero's Minimap
 * Xaero's World Map
@@ -104,6 +104,7 @@ Total mods: 89
 * Citadel (Unofficial Port)
 * Cloth Config API
 * Curios API
+* Faewulf's Lib
 * Geckolib
 * GlitchCore
 * GuideME
