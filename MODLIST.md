@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 92 
+Total mods: 93 
 
 ## Adventure & Content
 
@@ -94,6 +94,7 @@ Total mods: 92
 * Chunky
 * Chunky Border
 * CoreProtectNeo
+* Indestructible Blocks
 * LuckPerms
 * MKT Essentials
 * spark

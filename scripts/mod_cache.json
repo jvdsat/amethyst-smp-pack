@@ -559,5 +559,12 @@
             "adventure",
             "worldgen"
         ]
+    },
+    "qgPfkBRy": {
+        "name": "Indestructible Blocks",
+        "shortname": "indestructible-blocks",
+        "categories": [
+            "servermanagement"
+        ]
     }
 }
