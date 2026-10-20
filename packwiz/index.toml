@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7ba81b134c5e6a90ebc5574e2056322ee32a4a698f55ae34bb4350adf7af967c"
+hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
 metafile = true
 
 [[files]]
