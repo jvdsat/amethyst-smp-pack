@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 86 
+Total mods: 93 
 
 ## Adventure & Content
 
@@ -12,6 +12,7 @@ Total mods: 86
 * L_Ender's Cataclysm
 * Lootr
 * MES - Moog's End Structures
+* When Dungeons Arise
 
 ## World Generation
 
@@ -53,6 +54,8 @@ Total mods: 86
 
 ## Utilities
 
+* Carry Cats!
+* Carry On
 * Cubes Without Borders
 * EMI
 * Effortless Building
@@ -62,6 +65,7 @@ Total mods: 86
 * Nature's Compass
 * No Chat Reports
 * Open Parties and Claims
+* Piggyback
 * Remove Stardust Labs Intro Message
 * Xaero's Minimap
 * Xaero's World Map
@@ -90,6 +94,7 @@ Total mods: 86
 * Chunky
 * Chunky Border
 * CoreProtectNeo
+* Indestructible Blocks
 * LuckPerms
 * MKT Essentials
 * spark
@@ -101,6 +106,7 @@ Total mods: 86
 * Citadel (Unofficial Port)
 * Cloth Config API
 * Curios API
+* Faewulf's Lib
 * Geckolib
 * GlitchCore
 * GuideME

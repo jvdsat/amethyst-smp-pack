@@ -1,17 +1,17 @@
 ### Amethyst SMP Modlist
 This project contains the modlist files for the Amethyst SMP.
 
-Read the Prerequisites to see if this is something you even want to do. It’s quite some setup.
-
 ## Prerequisites
-1. Install Java OpenJDK 21. Windows install command for Command Prompt:
+1. Install Java JRE
+* Suggestion: Windows install command for Java JRE from Eclipse in Command Prompt:
 ```bash
 winget install EclipseAdoptium.Temurin.21.JRE
 ```
-2. 6 GB RAM recommended. You can allocate more, up to 8GB if you're seeing stutters. Flying at max speed with elytra was perfect at 6GB.
-3. Tailscale VPN (so you can connect to my home) https://tailscale.com/
-4. Minecraft 1.21.1 NeoForge 21.1.256 instance with 6144 MB RAM. Optionally, 8192 MB RAM.
-5. Whitelist yourself on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdoCBcKFSYoIytfGUFq6z5je2Ee2NhS0q0q0RN6ZmQhWYP8Tg/viewform?usp=sharing&ouid=100027547836001925957)
+3. Minecraft Instance:
+    * Minecraft 1.21.1
+    * NeoForge 21.1.256
+    * 6144 MB RAM up to 8192 MB RAM
+4. Whitelist yourself on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdoCBcKFSYoIytfGUFq6z5je2Ee2NhS0q0q0RN6ZmQhWYP8Tg/viewform?usp=sharing&ouid=100027547836001925957)
 
 ### BACKGROUND
 The modlist is meant to be updated and changed. It may also include mods whose creators do not allow them to be included in a modpack. Thus, no modpack is provided. Such a modpack would become outdated quickly and would go against mod creator licenses.
@@ -54,16 +54,17 @@ Use this command as a pre-launch command:
 ```
 
 ### For installs with a "mods" folder:
-If your launcher has a "mods" folder, place the packwiz-installer-bootstrap.jar file in the Minecraft directory.
+Place the the packwiz-installer-bootstrap.jar file next to the mods folder:
+<br>
 <br>...\instances\1.21.1\minecraft
-    - cache
-    - config
-    - coremods
-    - debug
-    - downloads
-    - logs
-    - mods
-    - packwiz-installer-bootstrap.jar
+* cache
+* config
+* coremods
+* debug
+* downloads
+* logs
+* mods
+* packwiz-installer-bootstrap.jar
 
 Run the packwiz-installer-bootstrap.jar file to manually sync with the server.
 ```java
@@ -72,7 +73,7 @@ java -jar packwiz-installer-bootstrap.jar -s client https://raw.githubuserconten
 
 ### For installs with complex directory structure:
 If your launcher has a more complex configuration, you can download the mods inside an empty folder. 
-For example,the Lunar Client folder has a mods folder, then a folder for each instance. In this case, you cannot use the packwiz java command, which creates a mods folder.
+For example, the Lunar Client folder has a mods folder, then a folder for each instance. In this case, you cannot use the packwiz java command, which creates a mods folder.
 1. Create an empty folder anywhere (suggestion: create one in Downloads)
 2. Place the packwiz-installer-bootstrap.jar into this folder
 3. Run the packwiz-installer-bootstrap.jar file
@@ -81,7 +82,7 @@ java -jar packwiz-installer-bootstrap.jar -s client https://raw.githubuserconten
 ```
 4. The program will create a "mods" folder and other packwiz related files. Open the "mods" folder and paste the mod files into your Minecraft folder.
 <br>...\Downloads\amethyst-smp-pack
-    - mods
-    - packwiz-installer.jar
-    - packwiz.json
-    - packwiz-installer-bootstrap.jar
+* mods
+* packwiz-installer.jar
+* packwiz.json
+* packwiz-installer-bootstrap.jar

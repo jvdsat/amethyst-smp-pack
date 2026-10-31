@@ -505,14 +505,66 @@
     },
     "1bokaNcj": {
         "name": "Xaero's Minimap",
+        "shortname": "xaeros-minimap",
         "categories": [
             "utility"
         ]
     },
     "NcUtCpym": {
         "name": "Xaero's World Map",
+        "shortname": "xaeros-world-map",
         "categories": [
             "utility"
+        ]
+    },
+    "q4N9H96q": {
+        "name": "Faewulf's Lib",
+        "shortname": "faewulfslib",
+        "categories": [
+            "library"
+        ]
+    },
+    "yP77bAiA": {
+        "name": "Piggyback",
+        "shortname": "piggyback",
+        "categories": [
+            "utility"
+        ]
+    },
+    "TqKRgEs9": {
+        "name": "Carry Me",
+        "shortname": "carry-me",
+        "categories": [
+            "utility"
+        ]
+    },
+    "joEfVgkn": {
+        "name": "Carry On",
+        "shortname": "carry-on",
+        "categories": [
+            "utility"
+        ]
+    },
+    "pyA57x8S": {
+        "name": "Carry Cats!",
+        "shortname": "carry-cats",
+        "categories": [
+            "utility"
+        ]
+    },
+    "8DfbfASn": {
+        "name": "When Dungeons Arise",
+        "shortname": "when-dungeons-arise",
+        "categories": [
+            "adventure",
+            "worldgen"
+        ]
+    },
+    "qgPfkBRy": {
+        "name": "Indestructible Blocks",
+        "shortname": "indestructible-blocks",
+        "categories": [
+            "servermanagement"
         ]
     }
 }

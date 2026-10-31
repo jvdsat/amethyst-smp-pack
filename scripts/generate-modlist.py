@@ -106,7 +106,7 @@ def main():
             else:
                 print(f"Fetching categories from: {mod_name}")
                 categories = get_modrinth_categories(mod_id)
-                cache[str(mod_id)] = {"name": mod_name, "categories": categories}
+                cache[str(mod_id)] = {"name": mod_name, "shortname": filename.replace(".pw.toml", ""), "categories": categories}
                 cache_updated = True
 
             first_category = categories[0] if len(categories) > 0 else ["uncategorized"]
@@ -130,7 +130,7 @@ def main():
     # Save cache for new edits
     if cache_updated:
         save_cache(cache, cache_file)
-        print(f"Updated {cache_file} with new mods.")
+        print(f"Updated {cache_file}")
     else:
         print(f"Updated {modlist_file}")
 
