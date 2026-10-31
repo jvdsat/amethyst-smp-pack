@@ -1,15 +1,12 @@
 ### Amethyst SMP Modlist
 This project contains the modlist files for the Amethyst SMP.
 
-Read the Prerequisites to see if this is something you even want to do. It’s quite some setup.
-
 ## Prerequisites
 1. Install Java JRE
 * Suggestion: Windows install command for Java JRE from Eclipse in Command Prompt:
 ```bash
 winget install EclipseAdoptium.Temurin.21.JRE
 ```
-2. Tailscale VPN (so you can connect to my home) https://tailscale.com/
 3. Minecraft Instance:
     * Minecraft 1.21.1
     * NeoForge 21.1.256
