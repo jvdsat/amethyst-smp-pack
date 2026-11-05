@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 93 
+Total mods: 95 
 
 ## Adventure & Content
 
@@ -31,6 +31,7 @@ Total mods: 93
 
 ## Equipment & Weapons
 
+* Dis-Enchanting Table
 * Traveler's Backpack
 * VeinMiner
 * VeinMiner Enchantment
@@ -115,6 +116,7 @@ Total mods: 93
 * KotlinLangForge
 * Lionfish-API
 * Lithostitched
+* MonoLib
 * Placebo
 * Resourceful Config
 * Sophisticated Core
