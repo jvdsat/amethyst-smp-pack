@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 95 
+Total mods: 97 
 
 ## Adventure & Content
 
@@ -12,6 +12,7 @@ Total mods: 95
 * L_Ender's Cataclysm
 * Lootr
 * MES - Moog's End Structures
+* Waystones
 * When Dungeons Arise
 
 ## World Generation
@@ -103,6 +104,7 @@ Total mods: 95
 ## Libraries & APIs
 
 * BCLib Neoforge
+* Balm
 * CERBON's API
 * Citadel (Unofficial Port)
 * Cloth Config API

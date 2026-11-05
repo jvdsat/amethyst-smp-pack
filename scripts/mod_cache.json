@@ -580,5 +580,21 @@
         "categories": [
             "library"
         ]
+    },
+    "MBAkmtvl": {
+        "name": "Balm",
+        "shortname": "balm",
+        "categories": [
+            "library"
+        ]
+    },
+    "LOpKHB2A": {
+        "name": "Waystones",
+        "shortname": "waystones",
+        "categories": [
+            "adventure",
+            "magic",
+            "transportation"
+        ]
     }
 }
