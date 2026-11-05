@@ -566,5 +566,35 @@
         "categories": [
             "servermanagement"
         ]
+    },
+    "6581607": {
+        "name": "Dis-Enchanting Table",
+        "shortname": "dis-enchanting-table",
+        "categories": [
+            "equipment"
+        ]
+    },
+    "9050710": {
+        "name": "MonoLib",
+        "shortname": "monolib",
+        "categories": [
+            "library"
+        ]
+    },
+    "MBAkmtvl": {
+        "name": "Balm",
+        "shortname": "balm",
+        "categories": [
+            "library"
+        ]
+    },
+    "LOpKHB2A": {
+        "name": "Waystones",
+        "shortname": "waystones",
+        "categories": [
+            "adventure",
+            "magic",
+            "transportation"
+        ]
     }
 }
