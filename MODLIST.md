@@ -49,7 +49,6 @@ Total mods: 97
 
 ## Quality of Life
 
-* GraveStone Mod
 * Inventory Profiles Next
 * Simple Voice Chat
 * Studious Keybinds
