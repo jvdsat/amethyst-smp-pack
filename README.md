@@ -1,6 +1,8 @@
 ### Amethyst SMP Modlist
 This project contains the modlist files for the Amethyst SMP.
 
+This server is meant to be pretty chill, there is keep inventory and many OP items to help with exploration and adventuring.
+
 ## Prerequisites
 1. Install Java JRE
 * Suggestion: Windows install command for Java JRE from Eclipse in Command Prompt:
