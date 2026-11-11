@@ -48,7 +48,6 @@ mouseSensitivity:0.5
 damageTiltStrength:0.5
 highContrast:false
 narratorHotkey:false
-attackIndicator:1
 advancedItemTooltips:true
 skipMultiplayerWarning:true
 resourcePacks:["tacz_resources","vanilla","mod_resources"]
