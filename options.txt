@@ -23,7 +23,6 @@ particles:1
 reducedDebugInfo:false
 renderClouds:"fast"
 renderDistance:8
-simulationDistance:6
 simulationDistance:5
 screenEffectScale:0.0
 soundDevice:""
@@ -49,9 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:0.5
 highContrast:false
 narratorHotkey:false
-attackIndicator:1
 advancedItemTooltips:true
-skipMultiplayerWarning:true
 resourcePacks:["tacz_resources","vanilla","mod_resources"]
 incompatibleResourcePacks:[]
 lastServer:
@@ -62,7 +59,6 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
