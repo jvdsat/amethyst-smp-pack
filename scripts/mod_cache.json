@@ -590,5 +590,12 @@
             "magic",
             "transportation"
         ]
+    },
+    "1vrSzlao": {
+        "name": "KotlinLangForge",
+        "shortname": "kotlin-lang-forge",
+        "categories": [
+            "library"
+        ]
     }
 }

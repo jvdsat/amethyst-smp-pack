@@ -114,6 +114,7 @@ Total mods: 97
 * GuideME
 * Iron's Lib
 * Kotlin for Forge
+* KotlinLangForge
 * Lionfish-API
 * Lithostitched
 * MonoLib
