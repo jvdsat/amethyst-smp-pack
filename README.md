@@ -39,11 +39,10 @@ The following Minecraft launchers support pre-launch commands, and thus can call
 Launchers such as CurseForge, Modrinth, Lunar Client, and Badlion Client do not support pre-launch commands. Thus, the packwiz program cannot automatically keep your modlist updated on launch. If you prefer to use these launchers, you will need to run the java command yourself to keep your modlist updated.
 
 ## SETUP GUIDE
-
-1. Install the packwiz installer bootstrap jar at https://github.com/packwiz/packwiz-installer-bootstrap/releases/tag/v0.0.3 
+Install the packwiz installer bootstrap jar at https://github.com/packwiz/packwiz-installer-bootstrap/releases/tag/v0.0.3 
 
 ### For installs with a "mods" folder:
-2. Place the "packwiz-installer-bootstrap.jar" file in your Minecraft folder. (NOT the mods folder)
+Place the "packwiz-installer-bootstrap.jar" file in your Minecraft folder. (NOT the mods folder)
 <br>Example file structure:
 <br>...\instances\1.21.1\minecraft
     - cache
