@@ -49,7 +49,6 @@ damageTiltStrength:0.5
 highContrast:false
 narratorHotkey:false
 advancedItemTooltips:true
-skipMultiplayerWarning:true
 resourcePacks:["tacz_resources","vanilla","mod_resources"]
 incompatibleResourcePacks:[]
 lastServer:
