@@ -15,6 +15,12 @@ winget install EclipseAdoptium.Temurin.21.JRE
     * 6144 MB RAM up to 8192 MB RAM
 4. Whitelist yourself on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdoCBcKFSYoIytfGUFq6z5je2Ee2NhS0q0q0RN6ZmQhWYP8Tg/viewform?usp=sharing&ouid=100027547836001925957)
 
+Minumum Specs: (2 chunk render distance on 40 fps)
+- Intel 13th Gen i5-1335U (laptop)
+- Iris Xe Graphics
+
+Recommended Specs is any modern i5, ryzen 5 laptop or desktop with separate graphics.
+
 ### BACKGROUND
 The modlist is meant to be updated and changed. It may also include mods whose creators do not allow them to be included in a modpack. Thus, no modpack is provided. Such a modpack would become outdated quickly and would go against mod creator licenses.
 
