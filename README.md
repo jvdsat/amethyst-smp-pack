@@ -12,14 +12,18 @@ winget install EclipseAdoptium.Temurin.21.JRE
 3. Minecraft Instance: (read on about launchers)
     * Minecraft 1.21.1
     * NeoForge 21.1.256
-    * 6144 MB RAM up to 8192 MB RAM
+    * B RAM
 4. Whitelist yourself on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdoCBcKFSYoIytfGUFq6z5je2Ee2NhS0q0q0RN6ZmQhWYP8Tg/viewform?usp=sharing&ouid=100027547836001925957)
 
 Minimum Specs: (2 chunk render distance on 40 fps)
 - Intel 13th Gen i5-1335U (laptop)
 - Iris Xe Graphics
+- 6144 MB RAM
 
-Recommended Specs is any modern i5, ryzen 5 laptop or desktop with separate graphics.
+Recommended Specs:
+- Modern Intel i5 or AMD Ryzen 5
+- Dedicated graphics
+- 8192 MB RAM
 
 ### BACKGROUND
 The modlist is meant to be updated and changed. It may also include mods whose creators do not allow them to be included in a modpack. Thus, no modpack is provided. Such a modpack would become outdated quickly and would go against mod creator licenses.
