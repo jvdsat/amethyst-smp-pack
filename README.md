@@ -15,7 +15,7 @@ winget install EclipseAdoptium.Temurin.21.JRE
     * 6144 MB RAM up to 8192 MB RAM
 4. Whitelist yourself on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdoCBcKFSYoIytfGUFq6z5je2Ee2NhS0q0q0RN6ZmQhWYP8Tg/viewform?usp=sharing&ouid=100027547836001925957)
 
-Minumum Specs: (2 chunk render distance on 40 fps)
+Minimum Specs: (2 chunk render distance on 40 fps)
 - Intel 13th Gen i5-1335U (laptop)
 - Iris Xe Graphics
 
