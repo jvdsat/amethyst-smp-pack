@@ -9,7 +9,7 @@ This server is meant to be pretty chill, there is keep inventory and many OP ite
 ```bash
 winget install EclipseAdoptium.Temurin.21.JRE
 ```
-3. Minecraft Instance:
+3. Minecraft Instance: (read on about launchers)
     * Minecraft 1.21.1
     * NeoForge 21.1.256
     * 6144 MB RAM up to 8192 MB RAM
@@ -32,6 +32,8 @@ Launchers such as CurseForge, Modrinth, Lunar Client, and Badlion Client do not 
 ## SETUP GUIDE
 
 1. Install the packwiz installer bootstrap jar at https://github.com/packwiz/packwiz-installer-bootstrap/releases/tag/v0.0.3 
+
+### For installs with a "mods" folder:
 2. Place the "packwiz-installer-bootstrap.jar" file in your Minecraft folder. (NOT the mods folder)
 <br>Example file structure:
 <br>...\instances\1.21.1\minecraft
@@ -55,19 +57,7 @@ Use this command as a pre-launch command:
 "$INST_JAVA" -jar "$INST_MC_DIR/packwiz-installer-bootstrap.jar" -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/packwiz/pack.toml
 ```
 
-### For installs with a "mods" folder:
-Place the the packwiz-installer-bootstrap.jar file next to the mods folder:
-<br>
-<br>...\instances\1.21.1\minecraft
-* cache
-* config
-* coremods
-* debug
-* downloads
-* logs
-* mods
-* packwiz-installer-bootstrap.jar
-
+### For other launchers with a "mods" folder:
 Run the packwiz-installer-bootstrap.jar file to manually sync with the server.
 ```java
 java -jar packwiz-installer-bootstrap.jar -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/packwiz/pack.toml
