@@ -12,7 +12,6 @@ winget install EclipseAdoptium.Temurin.21.JRE
 3. Minecraft Instance: (read on about launchers)
     * Minecraft 1.21.1
     * NeoForge 21.1.256
-    * B RAM
 4. Whitelist yourself on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdoCBcKFSYoIytfGUFq6z5je2Ee2NhS0q0q0RN6ZmQhWYP8Tg/viewform?usp=sharing&ouid=100027547836001925957)
 
 Minimum Specs: (2 chunk render distance on 40 fps)
