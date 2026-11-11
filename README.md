@@ -1,30 +1,107 @@
-### Amethyst SMP Modlist
+# Amethyst SMP Modlist
 This project contains the modlist files for the Amethyst SMP.
 
-This server is meant to be pretty chill, there is keep inventory and many OP items to help with exploration and adventuring.
+This server is meant to be pretty chill. There's keep inventory and many powerful items making gearing up easier.
 
-## Prerequisites
-1. Install Java JRE
-* Suggestion: Windows install command for Java JRE from Eclipse in Command Prompt:
+# Prerequisites
+1. Java JRE. Suggestion: Windows install command for Java JRE from Eclipse in Command Prompt:
 ```bash
 winget install EclipseAdoptium.Temurin.21.JRE
 ```
-3. Minecraft Instance: (read on about launchers)
-    * Minecraft 1.21.1
-    * NeoForge 21.1.256
-4. Whitelist yourself on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdoCBcKFSYoIytfGUFq6z5je2Ee2NhS0q0q0RN6ZmQhWYP8Tg/viewform?usp=sharing&ouid=100027547836001925957)
+2. Whitelist yourself on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdoCBcKFSYoIytfGUFq6z5je2Ee2NhS0q0q0RN6ZmQhWYP8Tg/viewform?usp=sharing&ouid=100027547836001925957)
 
 Minimum Specs: (2 chunk render distance on 40 fps)
 - Intel 13th Gen i5-1335U (laptop)
 - Iris Xe Graphics
-- 6144 MB RAM
+- 5120 MB RAM
 
 Recommended Specs:
 - Modern Intel i5 or AMD Ryzen 5
 - Dedicated graphics
-- 8192 MB RAM
+- 6144 to 8192 MB RAM
 
-### BACKGROUND
+# SETUP GUIDE
+### 1. Download the packwiz installer bootstrap jar at https://github.com/packwiz/packwiz-installer-bootstrap/releases/tag/v0.0.3 
+### 2. I highly recommend MultiMC or PrismLauncher as they can automatically update your mods. Otherwise you can manually update your modlist.
+### 2a. Create a Minecraft 1.21.1 with NeoForge 21.1.256 instance
+
+### 3. If your minecraft folder has a "mods" folder, place the "packwiz-installer-bootstrap.jar" file next to it: (NOT inside the mods folder)
+Example: ...\instances\1.21.1\minecraft
+  - cache
+  - config
+  - coremods
+  - debug
+  - downloads
+  - logs
+  - **mods**
+  - **packwiz-installer-bootstrap.jar**
+  - resourcepacks
+  - saves
+  - icon.png
+  - options.txt
+  - servers.dat
+  - etc...
+
+### From here, go to the section depending on your install
+
+### 4a. For MultiMC, PrismLauncher, and ATLauncher:
+Use this command as a pre-launch command:
+```java
+"$INST_JAVA" -jar "$INST_MC_DIR/packwiz-installer-bootstrap.jar" -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/packwiz/pack.toml
+```
+
+### 4b. Manual sync with other launchers:
+Run the packwiz-installer-bootstrap.jar file to update the mods in the 'mods' folder:
+1. Open a terminal in the minecraft folder
+2. Run the manual packwiz command:
+
+#### Manual Packwiz Command:
+```java
+java -jar packwiz-installer-bootstrap.jar -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/packwiz/pack.toml
+```
+
+### 4c. Download mods to a separate folder:
+If your launcher has a more complex configuration, you can download the mods inside an empty folder. (e.g. Lunar Client)
+1. Create an empty folder anywhere (suggestion: create one in Downloads)
+2. Place the packwiz-installer-bootstrap.jar into this folder
+3. Run the manual packwiz command above
+4. The program will create a "mods" folder and other packwiz related files. Open the "mods" folder and paste the mod files into your Minecraft folder.
+  - ...\Downloads\amethyst-smp-pack
+    - mods
+    - packwiz-installer.jar
+    - packwiz.json
+    - packwiz-installer-bootstrap.jar
+
+### 5. RECOMMENDED OPTIONS
+- Download the 'options.txt' which has some recommended keybinds, volume, settings, etc.
+
+### 6. Finish
+- You should be ready to go. Launch your instance.
+- Optional: After launching for the first time, overwrite the existing 'options.txt' with the one in this project.
+- Check out the FAQ.
+
+# Player Guide
+
+Once on the server, you should be aware of the following:
+
+MKT Essentials
+1. Once you have a small base, create a 'home' with /home that you can teleport back to
+2. Use /rtp to move around the map randomly to explore new areas
+3. Send and accept teleport requests to players with /tpa and /tphere
+
+Claims
+1. Claim chunks as your own to prevent player and creeper griefing
+2. Open Xaero's minimap with 'M', right click a chunk, and 'Claim Selected'
+
+Exploring
+- Make use of explorer's compass and nature compass to find structures and biomes easier
+
+<br>
+
+# General Guidelines
+- Please make any long term base within roughly 2k blocks of spawn
+
+# BACKGROUND
 The modlist is meant to be updated and changed. It may also include mods whose creators do not allow them to be included in a modpack. Thus, no modpack is provided. Such a modpack would become outdated quickly and would go against mod creator licenses.
 
 This modlist utilizes "packwiz", a .jar program which updates your local modlist with this repository. The server also syncs with this repository using packwiz, keeping your Minecraft modlist and the server in sync.
@@ -37,52 +114,3 @@ The following Minecraft launchers support pre-launch commands, and thus can call
 - ATLauncher
 
 Launchers such as CurseForge, Modrinth, Lunar Client, and Badlion Client do not support pre-launch commands. Thus, the packwiz program cannot automatically keep your modlist updated on launch. If you prefer to use these launchers, you will need to run the java command yourself to keep your modlist updated.
-
-## SETUP GUIDE
-Install the packwiz installer bootstrap jar at https://github.com/packwiz/packwiz-installer-bootstrap/releases/tag/v0.0.3 
-
-### For installs with a "mods" folder:
-Place the "packwiz-installer-bootstrap.jar" file in your Minecraft folder. (NOT the mods folder)
-<br>Example file structure:
-<br>...\instances\1.21.1\minecraft
-    - cache
-    - config
-    - coremods
-    - debug
-    - downloads
-    - logs
-    - mods
-    - resourcepacks
-    - saves
-    - icon.png
-    - options.txt
-    - servers.dat
-    - packwiz-installer-bootstrap.jar
-
-### For MultiMC, PrismLauncher, and ATLauncher:
-Use this command as a pre-launch command:
-```java
-"$INST_JAVA" -jar "$INST_MC_DIR/packwiz-installer-bootstrap.jar" -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/packwiz/pack.toml
-```
-
-### For other launchers with a "mods" folder:
-Run the packwiz-installer-bootstrap.jar file to manually sync with the server.
-```java
-java -jar packwiz-installer-bootstrap.jar -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/packwiz/pack.toml
-```
-
-### For installs with complex directory structure:
-If your launcher has a more complex configuration, you can download the mods inside an empty folder. 
-For example, the Lunar Client folder has a mods folder, then a folder for each instance. In this case, you cannot use the packwiz java command, which creates a mods folder.
-1. Create an empty folder anywhere (suggestion: create one in Downloads)
-2. Place the packwiz-installer-bootstrap.jar into this folder
-3. Run the packwiz-installer-bootstrap.jar file
-```java
-java -jar packwiz-installer-bootstrap.jar -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/packwiz/pack.toml
-```
-4. The program will create a "mods" folder and other packwiz related files. Open the "mods" folder and paste the mod files into your Minecraft folder.
-<br>...\Downloads\amethyst-smp-pack
-* mods
-* packwiz-installer.jar
-* packwiz.json
-* packwiz-installer-bootstrap.jar
