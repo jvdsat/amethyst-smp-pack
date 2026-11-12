@@ -73,8 +73,8 @@ If your launcher has a more complex configuration, you can download the mods ins
     - packwiz-installer-bootstrap.jar
 
 ### 5. RECOMMENDED OPTIONS
-1. After your launch the game once, close the game.
-2. Download the 'options.txt' which has some recommended keybinds, volume, settings, etc. place this in the main minecraft directory (next to packwiz-installer-bootstrap.jar)
+1. After you launch the game once, close the game.
+2. Download the 'options.txt' in this project, and overwrite the existing 'options.txt' in the main minecraft folder (next to packwiz-installer-bootstrap.jar). The 'options.txt' in this project has recommended keybinds, volume, settings, etc.
 
 ### 6. Finish
 - You should be ready to go. Launch your instance.
