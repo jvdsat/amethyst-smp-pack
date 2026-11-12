@@ -10,7 +10,7 @@ winget install EclipseAdoptium.Temurin.21.JRE
 ```
 2. Whitelist yourself on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdoCBcKFSYoIytfGUFq6z5je2Ee2NhS0q0q0RN6ZmQhWYP8Tg/viewform?usp=sharing&ouid=100027547836001925957)
 
-Minimum Specs: (2 chunk render distance on 40 fps)
+Minimum Specs: (my laptop - 2 chunk render distance on 40 fps)
 - Intel 13th Gen i5-1335U (laptop)
 - Iris Xe Graphics
 - 5120 MB RAM
@@ -73,7 +73,8 @@ If your launcher has a more complex configuration, you can download the mods ins
     - packwiz-installer-bootstrap.jar
 
 ### 5. RECOMMENDED OPTIONS
-- Download the 'options.txt' which has some recommended keybinds, volume, settings, etc.
+1. After your launch the game once, close the game.
+2. Download the 'options.txt' which has some recommended keybinds, volume, settings, etc. place this in the main minecraft directory (next to packwiz-installer-bootstrap.jar)
 
 ### 6. Finish
 - You should be ready to go. Launch your instance.
