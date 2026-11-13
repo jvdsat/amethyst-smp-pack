@@ -597,5 +597,14 @@
         "categories": [
             "library"
         ]
+    },
+    "zj6ZBpmY": {
+        "name": "RE:Constructed Wands",
+        "shortname": "reconstructed-wands",
+        "categories": [
+            "game-mechanics",
+            "utility",
+            "worldgen"
+        ]
     }
 }
