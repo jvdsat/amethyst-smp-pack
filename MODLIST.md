@@ -59,7 +59,6 @@ Total mods: 98
 * Carry On
 * Cubes Without Borders
 * EMI
-* Effortless Building
 * Explorer's Compass
 * Jade 🔍
 * Lightman's Currency
