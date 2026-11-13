@@ -604,5 +604,12 @@
         "categories": [
             "utility"
         ]
+    },
+    "84zcagOb": {
+        "name": "Voxy Server Side",
+        "shortname": "voxy-server-side",
+        "categories": [
+            "adventure"
+        ]
     }
 }

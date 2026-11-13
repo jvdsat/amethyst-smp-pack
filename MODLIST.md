@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 98 
+Total mods: 99 
 
 ## Adventure & Content
 
@@ -88,6 +88,7 @@ Total mods: 98
 * ModernFix
 * Sodium
 * Structure Layout Optimizer
+* Voxy Server Side
 
 ## Server Management
 
