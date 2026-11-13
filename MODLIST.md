@@ -66,6 +66,7 @@ Total mods: 98
 * No Chat Reports
 * Open Parties and Claims
 * Piggyback
+* RE:Constructed Wands
 * Remove Stardust Labs Intro Message
 * Xaero's Minimap
 * Xaero's World Map
@@ -125,8 +126,4 @@ Total mods: 98
 * WunderLib Neoforge
 * libIPN
 * playerAnimator
-
-## Uncategorized
-
-* RE:Constructed Wands
 
