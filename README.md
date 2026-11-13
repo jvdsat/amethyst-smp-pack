@@ -3,6 +3,9 @@ This project contains the modlist files for the Amethyst SMP.
 
 This server is meant to be pretty chill. There's keep inventory and many powerful items making gearing up easier.
 
+## KNOWN ISSUES
+DO NOT PLACE BACKPACKS WITH EFFORTLESS BUILDING - THE BACKPACK CONTENTS WILL BE DELETED. (this is recoverable if it does occur, but requires me to restore it for you)
+
 # Prerequisites
 1. Java JRE. Suggestion: Windows install command for Java JRE from Eclipse in Command Prompt:
 ```bash
