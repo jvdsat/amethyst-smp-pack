@@ -19,7 +19,6 @@ Recommended Specs:
 - Modern Intel i5 or AMD Ryzen 5
 - Dedicated graphics
 - 6144 to 8192 MB RAM
-- 6144 to 8192 MB RAM
 
 # SETUP GUIDE
 ### 1. Download the packwiz installer bootstrap jar at https://github.com/packwiz/packwiz-installer-bootstrap/releases/tag/v0.0.3 
