@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 97 
+Total mods: 98 
 
 ## Adventure & Content
 
@@ -59,7 +59,6 @@ Total mods: 97
 * Carry On
 * Cubes Without Borders
 * EMI
-* Effortless Building
 * Explorer's Compass
 * Jade 🔍
 * Lightman's Currency
@@ -67,6 +66,7 @@ Total mods: 97
 * No Chat Reports
 * Open Parties and Claims
 * Piggyback
+* RE:Constructed Wands
 * Remove Stardust Labs Intro Message
 * Xaero's Minimap
 * Xaero's World Map

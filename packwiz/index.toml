@@ -131,11 +131,6 @@ hash = "a35abc9918ab470587cb18f05a37918a921ec0ae59f1c256ebec3c20d819904e"
 metafile = true
 
 [[files]]
-file = "mods/effortless-building.pw.toml"
-hash = "2fe3ff82d4eee03412655d1c9c1c117c63a15187617c68f3139eaaceffa9a670"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
@@ -358,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
+file = "mods/reconstructed-wands.pw.toml"
+hash = "2c3d9668a1cdf10804af038138d2b02478b877e764725c4a9c177e4b7d77f642"
 metafile = true
 
 [[files]]
