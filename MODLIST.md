@@ -12,6 +12,7 @@ Total mods: 99
 * L_Ender's Cataclysm
 * Lootr
 * MES - Moog's End Structures
+* Voxy Server Side
 * Waystones
 * When Dungeons Arise
 
@@ -88,7 +89,6 @@ Total mods: 99
 * ModernFix
 * Sodium
 * Structure Layout Optimizer
-* Voxy Server Side
 
 ## Server Management
 
