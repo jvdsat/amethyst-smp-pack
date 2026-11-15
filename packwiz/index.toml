@@ -111,6 +111,11 @@ hash = "18e37e8299dbb7257b428130b8c55c1baab72b89fd21e88bd1388ef5b20d6a76"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
@@ -368,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
+metafile = true
+
+[[files]]
+file = "mods/showmyskin.pw.toml"
+hash = "a0abbdaeb5e86f925bb2849c48a46d689338251cd6296422f06bf8d7c7d75ecb"
 metafile = true
 
 [[files]]
