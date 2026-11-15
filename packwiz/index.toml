@@ -376,11 +376,6 @@ hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
 metafile = true
 
 [[files]]
-file = "mods/showmyskin.pw.toml"
-hash = "8cbabab1aa0c2d42c45e5362f377c5cc32487def1914c7e41772a0cc476d7fd8"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "8045c493b0eb0196880817b529417742bb65b250805cc14f7abe5ac5f1e4d4b1"
 metafile = true
