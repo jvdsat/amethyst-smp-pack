@@ -1,0 +1,13 @@
+name = "Gear Vanish"
+filename = "gearvanish-neoforge-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65fdb070461a7cd76da8a641769d319580761797"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8631703
+project-id = 1643107

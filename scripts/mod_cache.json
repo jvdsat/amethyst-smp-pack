@@ -604,5 +604,19 @@
         "categories": [
             "utility"
         ]
+    },
+    "5610814": {
+        "name": "Cosmetic Armor Reworked",
+        "shortname": "cosmetic-armor-reworked",
+        "categories": [
+            "decoration"
+        ]
+    },
+    "HxMCBSZn": {
+        "name": "ShowMySkin",
+        "shortname": "showmyskin",
+        "categories": [
+            "decoration"
+        ]
     }
 }

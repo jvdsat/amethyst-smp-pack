@@ -111,6 +111,11 @@ hash = "18e37e8299dbb7257b428130b8c55c1baab72b89fd21e88bd1388ef5b20d6a76"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
@@ -183,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/gear-vanish.pw.toml"
+hash = "d4b31bb98c7b2bba532cdf7aff20657419042aae151c3009d1d0d2e424576a7a"
 metafile = true
 
 [[files]]

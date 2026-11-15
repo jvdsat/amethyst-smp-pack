@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 98 
+Total mods: 100 
 
 ## Adventure & Content
 
@@ -29,6 +29,10 @@ Total mods: 98
 
 * Applied Energistics 2
 * Sophisticated Storage
+
+## Decoration
+
+* Cosmetic Armor Reworked
 
 ## Equipment & Weapons
 
