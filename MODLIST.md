@@ -33,6 +33,7 @@ Total mods: 100
 ## Decoration
 
 * Cosmetic Armor Reworked
+* ShowMySkin
 
 ## Equipment & Weapons
 

@@ -1,0 +1,13 @@
+name = "ShowMySkin"
+filename = "show_my_skin-0.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HxMCBSZn/versions/OXP1FFfm/show_my_skin-0.1.0.jar"
+hash-format = "sha512"
+hash = "51378ba6cdef175cd8eebaedf4289d26451b1159c3224b1b0a5bb32ee817a52f292c1e92a1815b63575530b77746fd4d3fb0cf275d0f8729673507d9832d62ba"
+
+[update]
+[update.modrinth]
+mod-id = "HxMCBSZn"
+version = "OXP1FFfm"
