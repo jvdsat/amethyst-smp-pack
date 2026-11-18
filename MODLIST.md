@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 100 
+Total mods: 102 
 
 ## Adventure & Content
 
@@ -33,9 +33,11 @@ Total mods: 100
 ## Decoration
 
 * Cosmetic Armor Reworked
+* Gear Vanish
 
 ## Equipment & Weapons
 
+* Anvil Never Too Expensive
 * Dis-Enchanting Table
 * Traveler's Backpack
 * VeinMiner
@@ -102,6 +104,7 @@ Total mods: 100
 * Indestructible Blocks
 * LuckPerms
 * MKT Essentials
+* WorldEdit
 * spark
 
 ## Libraries & APIs

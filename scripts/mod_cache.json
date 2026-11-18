@@ -612,11 +612,25 @@
             "decoration"
         ]
     },
-    "HxMCBSZn": {
-        "name": "ShowMySkin",
-        "shortname": "showmyskin",
+    "8631703": {
+        "name": "Gear Vanish",
+        "shortname": "gear-vanish",
         "categories": [
             "decoration"
+        ]
+    },
+    "TEOa2X8B": {
+        "name": "Anvil Never Too Expensive",
+        "shortname": "ante",
+        "categories": [
+            "equipment"
+        ]
+    },
+    "1u6JkXh5": {
+        "name": "WorldEdit",
+        "shortname": "worldedit",
+        "categories": [
+            "servermanagement"
         ]
     }
 }
