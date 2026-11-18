@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 101 
+Total mods: 102 
 
 ## Adventure & Content
 
@@ -104,6 +104,7 @@ Total mods: 101
 * Indestructible Blocks
 * LuckPerms
 * MKT Essentials
+* WorldEdit
 * spark
 
 ## Libraries & APIs
