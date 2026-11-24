@@ -88,23 +88,32 @@ While the game is closed, overwrite the existing 'options.txt' in the main minec
 ### 7. Finish
 - You should be ready to go. Launch your instance.
 - A BetterX window will appear on launch. Select anything you want and click Proceed.
-- Check out the FAQ.
+
+### 8. In game options
+Disable purple arrows on inventory slots & disable warning message when tool is about to break:
+1. Open Inventory
+2. Click triple line in top left (inventory profiles next general config menu) 
+3. Click Auto refill
+4. Change "show icons on enabled slots" to false
+5. Scroll down to "Notifications". Change all alerts to 'false'
+
+Configure your keybinds with Options... > Controls... > Keyboard
 
 # Player Guide
 
 Once on the server, you should be aware of the following:
 
 MKT Essentials
-1. Once you have a small base, create a 'home' with /sethome that you can teleport back to
-2. Use /rtp to move around the map randomly to explore new areas. Note you could teleport beyond the world border and die instantly.
-3. Invite people to teleport to you with /tphere
-4. Request to teleport to someone with /tpa
+- Once you have a small base, create a 'home' with /sethome that you can teleport back to
+- Use /rtp to move around the map randomly to explore new areas. Note you could teleport beyond the world border and die instantly.
+- Invite people to teleport to you with /tphere
+- Request to teleport to someone with /tpa
 
 Claims - Claim chunks as your own to prevent player and creeper griefing
-1. Open Xaero's minimap with 'M', right click a chunk, and 'Claim Selected'
+- Open Xaero's minimap with 'M', right click a chunk, and 'Claim Selected'
 
 Exploring
-1. Make use of explorer's compass and nature compass to find structures and biomes easier
+- Make use of explorer's compass and nature compass to find structures and biomes easier
 
 <br>
 
