@@ -3,6 +3,9 @@ This project contains the modlist files for the Amethyst SMP.
 
 This server is meant to be pretty chill. There's keep inventory and many powerful items making gearing up easier.
 
+The server is at: mc.jvdsat.net
+The world map is at: https://map.jvdsat.net
+
 # Prerequisites
 1. Java JRE. Suggestion: Windows install command for Java JRE from Eclipse in Command Prompt:
 ```bash
