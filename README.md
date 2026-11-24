@@ -1,10 +1,16 @@
 # Amethyst SMP Modlist
-This project contains the modlist files for the Amethyst SMP.
+This project contains the setup instructions and modlist install for the Amethyst SMP.
 
-This server is meant to be pretty chill. There's keep inventory and many powerful items making gearing up easier.
+This server is meant to be pretty chill. There's keep inventory and many powerful items making gearing up easier. I also plan to run this server for at least a year so no rush.
 
-The server is at: mc.jvdsat.net
-The world map is at: https://map.jvdsat.net
+The server IP is: 
+```
+mc.jvdsat.net
+```
+<br> The world map is at:
+```
+https://map.jvdsat.net
+```
 
 # Prerequisites
 1. Java JRE. Suggestion: Windows install command for Java JRE from Eclipse in Command Prompt:
@@ -101,9 +107,6 @@ Exploring
 - Make use of explorer's compass and nature compass to find structures and biomes easier
 
 <br>
-
-# General Guidelines
-- Please make any long term base within roughly 2k blocks of spawn
 
 # BACKGROUND
 The modlist is meant to be updated and changed. It may also include mods whose creators do not allow them to be included in a modpack. Thus, no modpack is provided. Such a modpack would become outdated quickly and would go against mod creator licenses.
