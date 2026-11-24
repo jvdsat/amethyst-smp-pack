@@ -30,11 +30,12 @@ Recommended Specs:
 - 6144 to 8192 MB RAM
 
 # SETUP GUIDE
-### 1. Download the packwiz installer bootstrap jar at https://github.com/packwiz/packwiz-installer-bootstrap/releases/tag/v0.0.3 
-### 2. I highly recommend MultiMC or PrismLauncher as they can automatically update your mods. Otherwise you can manually update your modlist.
-### 2a. Create a Minecraft 1.21.1 with NeoForge 21.1.256 instance
+### 1. MultiMC or PrismLauncher are highly recommended as they can automatically update your mods. Otherwise you will need to manually update your modlist.
+### 2. Create a Minecraft 1.21.1 with NeoForge 21.1.256 instance
+### 3. Launch the instance, then close Minecraft
+### 4. Download the packwiz installer bootstrap jar at https://github.com/packwiz/packwiz-installer-bootstrap/releases/tag/v0.0.3 
 
-### 3. If your minecraft folder has a "mods" folder, place the "packwiz-installer-bootstrap.jar" file next to it: (NOT inside the mods folder)
+### 5. If your minecraft folder has a "mods" folder, place the "packwiz-installer-bootstrap.jar" file next to it: (NOT inside the mods folder)
 Example: ...\instances\1.21.1\minecraft
   - cache
   - config
@@ -53,13 +54,13 @@ Example: ...\instances\1.21.1\minecraft
 
 ### From here, go to the section depending on your install
 
-### 4a. For MultiMC, PrismLauncher, and ATLauncher:
+### Option 1: For MultiMC, PrismLauncher, and ATLauncher:
 Use this command as a pre-launch command:
 ```java
 "$INST_JAVA" -jar "$INST_MC_DIR/packwiz-installer-bootstrap.jar" -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/packwiz/pack.toml
 ```
 
-### 4b. Manual sync with other launchers:
+### Option 2: For other launchers, manually sync:
 Run the packwiz-installer-bootstrap.jar file to update the mods in the 'mods' folder:
 1. Open a terminal in the minecraft folder
 2. Run the manual packwiz command:
@@ -69,7 +70,7 @@ Run the packwiz-installer-bootstrap.jar file to update the mods in the 'mods' fo
 java -jar packwiz-installer-bootstrap.jar -s client https://raw.githubusercontent.com/jvdsat/amethyst-smp-pack/main/packwiz/pack.toml
 ```
 
-### 4c. Download mods to a separate folder:
+### Option 3: Last option: Download mods to a separate folder:
 If your launcher has a more complex configuration, you can download the mods inside an empty folder. (e.g. Lunar Client)
 1. Create an empty folder anywhere (suggestion: create one in Downloads)
 2. Place the packwiz-installer-bootstrap.jar into this folder
@@ -81,13 +82,12 @@ If your launcher has a more complex configuration, you can download the mods ins
     - packwiz.json
     - packwiz-installer-bootstrap.jar
 
-### 5. RECOMMENDED OPTIONS
-1. After you launch the game once, close the game.
-2. Download the 'options.txt' in this project, and overwrite the existing 'options.txt' in the main minecraft folder (next to packwiz-installer-bootstrap.jar). The 'options.txt' in this project has recommended keybinds, volume, settings, etc.
+### 6. RECOMMENDED OPTIONS
+While the game is closed, overwrite the existing 'options.txt' in the main minecraft folder (next to packwiz-installer-bootstrap.jar). The 'options.txt' in this project has minimal keybinds, volume, settings, etc. for my current playthrough.
 
-### 6. Finish
+### 7. Finish
 - You should be ready to go. Launch your instance.
-- Optional: After launching for the first time, overwrite the existing 'options.txt' with the one in this project.
+- A BetterX window will appear on launch. Select anything you want and click Proceed.
 - Check out the FAQ.
 
 # Player Guide
@@ -95,16 +95,16 @@ If your launcher has a more complex configuration, you can download the mods ins
 Once on the server, you should be aware of the following:
 
 MKT Essentials
-1. Once you have a small base, create a 'home' with /home that you can teleport back to
-2. Use /rtp to move around the map randomly to explore new areas
-3. Send and accept teleport requests to players with /tpa and /tphere
+1. Once you have a small base, create a 'home' with /sethome that you can teleport back to
+2. Use /rtp to move around the map randomly to explore new areas. Note you could teleport beyond the world border and die instantly.
+3. Invite people to teleport to you with /tphere
+4. Request to teleport to someone with /tpa
 
-Claims
-1. Claim chunks as your own to prevent player and creeper griefing
-2. Open Xaero's minimap with 'M', right click a chunk, and 'Claim Selected'
+Claims - Claim chunks as your own to prevent player and creeper griefing
+1. Open Xaero's minimap with 'M', right click a chunk, and 'Claim Selected'
 
 Exploring
-- Make use of explorer's compass and nature compass to find structures and biomes easier
+1. Make use of explorer's compass and nature compass to find structures and biomes easier
 
 <br>
 
