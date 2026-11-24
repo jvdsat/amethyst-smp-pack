@@ -1,10 +1,13 @@
 # Amethyst SMP Modlist
-This project contains the modlist files for the Amethyst SMP.
+This project contains the setup instructions and modlist install for the Amethyst SMP.
 
-This server is meant to be pretty chill. There's keep inventory and many powerful items making gearing up easier.
+This server is meant to be pretty chill. There's keep inventory and many powerful items making gearing up easier. I also plan to run this server for at least a year so no rush.
 
-The server is at: mc.jvdsat.net
-The world map is at: https://map.jvdsat.net
+The server IP is: 
+```
+mc.jvdsat.net
+```
+<br> The world map is at: https://map.jvdsat.net
 
 # Prerequisites
 1. Java JRE. Suggestion: Windows install command for Java JRE from Eclipse in Command Prompt:
