@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
-hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
+hash = "1816d9843fbfbd3908793be4baab975a7a5c49aa63fbfd9d39c880b7ef94890a"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/studious-keybinds.pw.toml"
-hash = "efd756299ea8eb1d7b21a6083cbc87b6d07ebd6bd62e8cd2c82f30025e611eb3"
+hash = "f557c416202cf0d1116fe4f45762d6fac32c0a1c16dee92f14b9d66ec1796edb"
 metafile = true
 
 [[files]]
