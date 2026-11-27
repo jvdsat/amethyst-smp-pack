@@ -406,6 +406,11 @@ hash = "8045c493b0eb0196880817b529417742bb65b250805cc14f7abe5ac5f1e4d4b1"
 metafile = true
 
 [[files]]
+file = "mods/sit-anywhere.pw.toml"
+hash = "e9346e9f68aa7d0c502fd0267f753f9bc4c6236132a23c75a1fc8f6766e6755f"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true

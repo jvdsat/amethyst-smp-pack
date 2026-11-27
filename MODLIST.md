@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 105 
+Total mods: 106 
 
 ## Adventure & Content
 
@@ -75,6 +75,7 @@ Total mods: 105
 * Piggyback
 * RE:Constructed Wands
 * Remove Stardust Labs Intro Message
+* Sit Anywhere!
 * Xaero's Minimap
 * Xaero's World Map
 * squaremap
