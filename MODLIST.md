@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 104 
+Total mods: 102 
 
 ## Adventure & Content
 
