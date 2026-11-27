@@ -83,8 +83,6 @@ If your launcher has a more complex configuration, you can download the mods ins
 2. Download the 'options.txt' in this project, and overwrite the existing 'options.txt' in the main minecraft folder (next to packwiz-installer-bootstrap.jar). The 'options.txt' in this project has recommended keybinds, volume, settings, etc.
 
 ### 6b. OPTIONAL CLIENT SIDE MODS
-- 3D skin layers https://modrinth.com/mod/3dskinlayers
-- Iris & shaders
 - Fullbright https://modrinth.com/mod/fullbright-forge
 
 ### 7. Finish
@@ -92,7 +90,7 @@ If your launcher has a more complex configuration, you can download the mods ins
 - A BetterX window will appear on launch. Select anything you want and click Proceed.
 
 ### 8. In game options
-Disable purple arrows on inventory slots & disable warning message when tool is about to break:
+Disable purple arrows on inventory slots & disable warning message when tools are about to break:
 1. Open Inventory
 2. Click triple line in top left (inventory profiles next general config menu) 
 3. Click Auto refill
