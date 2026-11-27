@@ -11,6 +11,11 @@ hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
 
 [[files]]
+file = "mods/alexandria-lib.pw.toml"
+hash = "756266c2cb9d2b620f77053bc9465106b396116bfd2a6f1ecfecaae7bc39ba36"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves-(unofficial-port).pw.toml"
 hash = "e3ea6c1ae49cfdb68008b673687d013a8b75d53fc2cc66ba2d1677dc51b929b0"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "21347d7f9c96cebacb7238dbef2670e2906a11572606016c8184e9485947dacc"
 metafile = true
 
 [[files]]
@@ -356,6 +366,11 @@ hash = "d22d3dad65c22acb508823667ca42d751d919753922a18fae50ccf656fa07a43"
 metafile = true
 
 [[files]]
+file = "mods/pickable-pets.pw.toml"
+hash = "453a77453b61cf6531ddcc004732da4698818950ff8556906497a6360bda2dcc"
+metafile = true
+
+[[files]]
 file = "mods/piggyback.pw.toml"
 hash = "4c460ee8a3e733866449445daca85d539711752fdc4e6aa2205ff17785625250"
 metafile = true
@@ -377,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
-hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
+hash = "1816d9843fbfbd3908793be4baab975a7a5c49aa63fbfd9d39c880b7ef94890a"
 metafile = true
 
 [[files]]
@@ -388,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "8045c493b0eb0196880817b529417742bb65b250805cc14f7abe5ac5f1e4d4b1"
+metafile = true
+
+[[files]]
+file = "mods/sit-anywhere.pw.toml"
+hash = "e9346e9f68aa7d0c502fd0267f753f9bc4c6236132a23c75a1fc8f6766e6755f"
 metafile = true
 
 [[files]]
@@ -422,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/studious-keybinds.pw.toml"
-hash = "efd756299ea8eb1d7b21a6083cbc87b6d07ebd6bd62e8cd2c82f30025e611eb3"
+hash = "f557c416202cf0d1116fe4f45762d6fac32c0a1c16dee92f14b9d66ec1796edb"
 metafile = true
 
 [[files]]

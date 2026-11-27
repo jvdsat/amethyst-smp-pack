@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 102 
+Total mods: 106 
 
 ## Adventure & Content
 
@@ -56,6 +56,7 @@ Total mods: 102
 ## Quality of Life
 
 * Inventory Profiles Next
+* Pickable Pets
 * Simple Voice Chat
 * Studious Keybinds
 
@@ -74,6 +75,7 @@ Total mods: 102
 * Piggyback
 * RE:Constructed Wands
 * Remove Stardust Labs Intro Message
+* Sit Anywhere!
 * Xaero's Minimap
 * Xaero's World Map
 * squaremap
@@ -109,6 +111,8 @@ Total mods: 102
 
 ## Libraries & APIs
 
+* Alexandria Lib
+* Architectury API
 * BCLib Neoforge
 * Balm
 * CERBON's API

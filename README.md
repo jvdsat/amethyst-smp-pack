@@ -13,13 +13,9 @@ https://map.jvdsat.net
 ```
 
 # Prerequisites
-1. Java JRE. Suggestion: Windows install command for Java JRE from Eclipse in Command Prompt:
-```bash
-winget install EclipseAdoptium.Temurin.21.JRE
-```
-2. Whitelist yourself on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdoCBcKFSYoIytfGUFq6z5je2Ee2NhS0q0q0RN6ZmQhWYP8Tg/viewform?usp=sharing&ouid=100027547836001925957)
+1. Whitelist yourself on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdoCBcKFSYoIytfGUFq6z5je2Ee2NhS0q0q0RN6ZmQhWYP8Tg/viewform?usp=sharing&ouid=100027547836001925957)
 
-Minimum Specs: (my laptop - 2 chunk render distance on 40 fps)
+Minimum Specs: (my laptop - 10 chunk render distance on 40 fps)
 - Intel 13th Gen i5-1335U (laptop)
 - Iris Xe Graphics
 - 5120 MB RAM
@@ -83,19 +79,31 @@ If your launcher has a more complex configuration, you can download the mods ins
     - packwiz-installer-bootstrap.jar
 
 ### 6. RECOMMENDED OPTIONS
-While the game is closed, overwrite the existing 'options.txt' in the main minecraft folder (next to packwiz-installer-bootstrap.jar). The 'options.txt' in this project has minimal keybinds, volume, settings, etc. for my current playthrough.
+1. After you launch the game once, close the game.
+2. Download the 'options.txt' in this project, and overwrite the existing 'options.txt' in the main minecraft folder (next to packwiz-installer-bootstrap.jar). The 'options.txt' in this project has recommended keybinds, volume, settings, etc.
+
+### 6b. OPTIONAL CLIENT SIDE MODS
+- Fullbright https://modrinth.com/mod/fullbright-forge
 
 ### 7. Finish
 - You should be ready to go. Launch your instance.
 - A BetterX window will appear on launch. Select anything you want and click Proceed.
 
 ### 8. In game options
-Disable purple arrows on inventory slots & disable warning message when tool is about to break:
+Disable purple arrows on inventory slots & disable warning message when tools are about to break:
 1. Open Inventory
 2. Click triple line in top left (inventory profiles next general config menu) 
 3. Click Auto refill
 4. Change "show icons on enabled slots" to false
 5. Scroll down to "Notifications". Change all alerts to 'false'
+
+Sitting Mod:
+- Sit anywhere: Look straight down, double press shift, then use item (right click)
+- Sit on stair or slab: Look down on top of it and use item (right click)
+
+Revive Pets:
+- Craft a 'Pet Altar', and sacrifice a diamond to revive the pet
+- Works for cats, dogs, horses, and parrots dying to spells, fire, lava, and void damage
 
 Configure your keybinds with Options... > Controls... > Keyboard
 
@@ -118,15 +126,15 @@ Exploring
 <br>
 
 # BACKGROUND
-The modlist is meant to be updated and changed. It may also include mods whose creators do not allow them to be included in a modpack. Thus, no modpack is provided. Such a modpack would become outdated quickly and would go against mod creator licenses.
+The modlist is meant to be updated and changed. It may also include mods whose creators do not allow them to be included in a modpack. Thus, no modpack hosted on modrinth or curseforge is provided. Such a modpack would become outdated quickly and would go against mod creator licenses.
 
 This modlist utilizes "packwiz", a .jar program which updates your local modlist with this repository. The server also syncs with this repository using packwiz, keeping your Minecraft modlist and the server in sync.
 
 Packwiz only manages mods to sync with the server. Your personal mods and other files will not be deleted and/or edited.
 
-The following Minecraft launchers support pre-launch commands, and thus can call the packwiz program automatically on startup, keeping your modlist automatically updated every time you launch Minecraft:
+The following Minecraft launchers are known to support pre-launch commands, and thus can call the packwiz program automatically on startup, keeping your modlist automatically updated every time you launch Minecraft.
 - MultiMC
 - PrismLauncher
 - ATLauncher
 
-Launchers such as CurseForge, Modrinth, Lunar Client, and Badlion Client do not support pre-launch commands. Thus, the packwiz program cannot automatically keep your modlist updated on launch. If you prefer to use these launchers, you will need to run the java command yourself to keep your modlist updated.
+Other launchers such as CurseForge, Modrinth, Lunar Client, and Badlion Client have not been tested to support pre-launch commands. Thus, the packwiz program cannot automatically keep your modlist updated on launch. If you prefer to use these launchers, you will need to run the java command yourself to keep your modlist updated.

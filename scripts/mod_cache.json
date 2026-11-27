@@ -632,5 +632,33 @@
         "categories": [
             "servermanagement"
         ]
+    },
+    "QvtrGaih": {
+        "name": "Alexandria Lib",
+        "shortname": "alexandria-lib",
+        "categories": [
+            "library"
+        ]
+    },
+    "lhGA9TYQ": {
+        "name": "Architectury API",
+        "shortname": "architectury-api",
+        "categories": [
+            "library"
+        ]
+    },
+    "dnVvH3YP": {
+        "name": "Pickable Pets",
+        "shortname": "pickable-pets",
+        "categories": [
+            "quality"
+        ]
+    },
+    "gNPj0UDg": {
+        "name": "Sit Anywhere!",
+        "shortname": "sit-anywhere",
+        "categories": [
+            "utility"
+        ]
     }
 }

@@ -1,6 +1,6 @@
 name = "Remove Stardust Labs Intro Message"
 filename = "zRemove_SDL_Intro_v1.2.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/sk4iFZGy/versions/BHr8OLOk/zRemove_SDL_Intro_v1.2.2.jar"
