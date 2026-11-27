@@ -99,8 +99,9 @@ Disable purple arrows on inventory slots & disable warning message when tool is 
 4. Change "show icons on enabled slots" to false
 5. Scroll down to "Notifications". Change all alerts to 'false'
 
-Sit anywhere:
-- Look straight down, double press shift, then right click. Sit on stair or slab: look at it and right click
+Sitting Mod:
+- Sit anywhere: Look straight down, double press shift, then use item (right click)
+- Sit on stair or slab: Look down on top of it and use item (right click)
 
 Revive Pets:
 - Craft a 'Pet Altar', and sacrifice a diamond to revive the pet
