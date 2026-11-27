@@ -128,15 +128,15 @@ Exploring
 <br>
 
 # BACKGROUND
-The modlist is meant to be updated and changed. It may also include mods whose creators do not allow them to be included in a modpack. Thus, no modpack is provided. Such a modpack would become outdated quickly and would go against mod creator licenses.
+The modlist is meant to be updated and changed. It may also include mods whose creators do not allow them to be included in a modpack. Thus, no modpack hosted on modrinth or curseforge is provided. Such a modpack would become outdated quickly and would go against mod creator licenses.
 
 This modlist utilizes "packwiz", a .jar program which updates your local modlist with this repository. The server also syncs with this repository using packwiz, keeping your Minecraft modlist and the server in sync.
 
 Packwiz only manages mods to sync with the server. Your personal mods and other files will not be deleted and/or edited.
 
-The following Minecraft launchers support pre-launch commands, and thus can call the packwiz program automatically on startup, keeping your modlist automatically updated every time you launch Minecraft:
+The following Minecraft launchers are known to support pre-launch commands, and thus can call the packwiz program automatically on startup, keeping your modlist automatically updated every time you launch Minecraft.
 - MultiMC
 - PrismLauncher
 - ATLauncher
 
-Launchers such as CurseForge, Modrinth, Lunar Client, and Badlion Client do not support pre-launch commands. Thus, the packwiz program cannot automatically keep your modlist updated on launch. If you prefer to use these launchers, you will need to run the java command yourself to keep your modlist updated.
+Other launchers such as CurseForge, Modrinth, Lunar Client, and Badlion Client have not been tested to support pre-launch commands. Thus, the packwiz program cannot automatically keep your modlist updated on launch. If you prefer to use these launchers, you will need to run the java command yourself to keep your modlist updated.
