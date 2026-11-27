@@ -99,6 +99,13 @@ Disable purple arrows on inventory slots & disable warning message when tool is 
 4. Change "show icons on enabled slots" to false
 5. Scroll down to "Notifications". Change all alerts to 'false'
 
+Sit anywhere:
+- Look straight down, double press shift, then right click. Sit on stair or slab: look at it and right click
+
+Revive Pets:
+- Craft a 'Pet Altar', and sacrifice a diamond to revive the pet
+- Works for cats, dogs, horses, and parrots dying to spells, fire, lava, and void damage
+
 Configure your keybinds with Options... > Controls... > Keyboard
 
 # Player Guide
