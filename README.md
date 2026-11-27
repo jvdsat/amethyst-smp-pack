@@ -123,6 +123,9 @@ Claims - Claim chunks as your own to prevent player and creeper griefing
 Exploring
 - Make use of explorer's compass and nature compass to find structures and biomes easier
 
+World Map
+- Click on the rightmost side of the website to show the dimension and playerlist. Click on a player to see where they are.
+
 <br>
 
 # BACKGROUND
