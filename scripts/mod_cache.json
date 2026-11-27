@@ -632,19 +632,5 @@
         "categories": [
             "servermanagement"
         ]
-    },
-    "VsM5EDoI": {
-        "name": "Blueprint",
-        "shortname": "blueprint",
-        "categories": [
-            "library"
-        ]
-    },
-    "M6tSWZ4N": {
-        "name": "Pet Cemetery",
-        "shortname": "pet-cemetery",
-        "categories": [
-            "quality"
-        ]
     }
 }
