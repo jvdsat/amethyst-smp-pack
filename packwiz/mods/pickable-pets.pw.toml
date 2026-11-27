@@ -1,0 +1,13 @@
+name = "Pickable Pets"
+filename = "PickablePets-2.0.3.2+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dnVvH3YP/versions/4VymLu9m/PickablePets-2.0.3.2%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "1454f7e277da4d97f448ecfb26765c108c00344226d9808e060adddad25bf4bbcac8df4f4357b79830b5725f4073d5c7a5d824261fc5449dc4ad2950dcd25a64"
+
+[update]
+[update.modrinth]
+mod-id = "dnVvH3YP"
+version = "4VymLu9m"

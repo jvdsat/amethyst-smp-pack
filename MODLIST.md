@@ -1,6 +1,6 @@
 # Amethyst Server Modlist 
 
-Total mods: 102 
+Total mods: 105 
 
 ## Adventure & Content
 
@@ -56,6 +56,7 @@ Total mods: 102
 ## Quality of Life
 
 * Inventory Profiles Next
+* Pickable Pets
 * Simple Voice Chat
 * Studious Keybinds
 
@@ -109,6 +110,8 @@ Total mods: 102
 
 ## Libraries & APIs
 
+* Alexandria Lib
+* Architectury API
 * BCLib Neoforge
 * Balm
 * CERBON's API
